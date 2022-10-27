@@ -382,6 +382,7 @@ state_country.place(x=750, y=70)
 
 # icon id
 icon_id = data1["current"]["weather"][0]["icon"]
+
 # icon url
 icon_url = "http://openweathermap.org/img/wn/" + icon_id + ".png"
 
@@ -392,6 +393,13 @@ urllib.request.urlretrieve(icon_url, "icon.png")
 logo = PhotoImage(file="icon.png")
 logo_label = Label(window, image=logo)
 logo_label.place(x=770, y=140)
+
+# sunrise icon id
+sunrise_icon_id = data1["current"]["weather"][0]["icon"]
+
+
+
+
 
 # Right side rectangle with time, temp, location, 3 days forecast, sunrise, sunset
 canvas.create_rectangle(
