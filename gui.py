@@ -375,7 +375,7 @@ canvas.create_text(
     fill="#FFFFFF",
     font=("Inter", 16 * -1)
 )
-
+# weather icon
 canvas.create_rectangle(
     747.0,
     125.0,
@@ -384,7 +384,7 @@ canvas.create_rectangle(
     fill="#FFFFFF",
     outline="")
 
-
+# Line below tempearture
 canvas.create_rectangle(
     742.0,
     230.0,
@@ -393,13 +393,14 @@ canvas.create_rectangle(
     fill="#D2AD2B",
     outline="")
 
-canvas.create_rectangle(
+# Line below date
+'''canvas.create_rectangle(
     568.0,
     46.0,
     706.0,
-    47.01458740234375,
+    47.0,
     fill="#000000",
-    outline="")
+    outline="")'''
 
 canvas.create_rectangle(
     121.0,
