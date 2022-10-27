@@ -5,6 +5,7 @@ import tkinter as tk
 from tkinter import *
 from turtle import update
 import requests
+import urllib
 import geocoder
 import time
 import json
@@ -166,6 +167,23 @@ canvas.place(x = 0, y = 0)
 
 get_Weather()
 
+# icon id
+icon_id = data1["current"]["weather"][0]["icon"]
+# icon url
+icon_url = "http://openweathermap.org/img/wn/" + icon_id + ".png"
+# Downloading icon
+urllib.request.urlretrieve(icon_url, "icon.png")
+# Opening icon
+icon = Image.open("icon.png")
+# Resizing icon
+icon = icon.resize((100, 100), Image.ANTIALIAS)
+# Saving icon
+icon.save("icon.png")
+# Opening icon
+icon = Label(window,Image.open("icon.png"))
+# Displaying icon
+icon_label = Label(canvas, image=icon)
+icon_label.place(x=10, y=15)
 # Digital Clock Label
 digital_clock_lbl=Label(window,text="00.00",font=("ds-digital",20),bg="#0F0C29",fg="#FFFFFF")
 digital_clock_lbl.place(x=750,y=30)
