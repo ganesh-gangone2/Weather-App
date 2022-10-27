@@ -394,11 +394,15 @@ logo = PhotoImage(file="icon.png")
 logo_label = Label(window, image=logo)
 logo_label.place(x=770, y=140)
 
-# sunrise icon id
-sunrise_icon_id = data1["current"]["weather"][0]["icon"]
+# sunrise icon 
+sunrise = PhotoImage(file="assets/sunrise.png")
+sunrise_icon = Label(window, image=sunrise)
+sunrise_icon.place(x=930, y=485)
 
-
-
+# sunset icon 
+sunset = PhotoImage(file="assets/sunset.png")
+sunset_icon = Label(window, image=sunset)
+sunset_icon.place(x=930, y=575)
 
 
 # Right side rectangle with time, temp, location, 3 days forecast, sunrise, sunset
@@ -457,14 +461,6 @@ canvas.create_rectangle(
     fill="#FFFFFF",
     outline="")
 
-# sun rise icon
-canvas.create_rectangle(
-    928.0,
-    480.0,
-    999.0,
-    537.0,
-    fill="#D0B146",
-    outline="")
 
 # sunset box
 canvas.create_rectangle(
@@ -475,14 +471,6 @@ canvas.create_rectangle(
     fill="#FFFFFF",
     outline="")
 
-#sunrise icon
-canvas.create_rectangle(
-    928.0,
-    578.0,
-    999.0,
-    635.0,
-    fill="#D0B146",
-    outline="")
 
 # hourly forecast box
 canvas.create_rectangle(
