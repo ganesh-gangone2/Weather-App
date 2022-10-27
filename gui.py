@@ -53,6 +53,9 @@ def get_Weather():
         data = json.loads(response.text)
         global data1
         data1 = data
+        loc = list(g)
+        global location
+        location = loc
 
 # Function to update the digital clock
 def update_clock():
@@ -371,7 +374,9 @@ day_2_desc.place(x=910, y=350)
 day_3_desc = Label(window, text=data1["daily"][2]["weather"][0]["main"], font=("Inter Regular", 12, "bold"), bg="#0F0C29", fg="#FFFFFF")
 day_3_desc.place(x=910, y=410)
 
-
+# location
+state_country = Label(window, text=str(location[0]), font=("Inter Regular", 12, "bold"), bg="#0F0C29", fg="#FFFFFF")
+state_country.place(x=735, y=75)
 
 
 # Right side rectangle with time, temp, location, 3 days forecast, sunrise, sunset
@@ -412,14 +417,15 @@ canvas.create_rectangle(
     outline="")
 
 
-canvas.create_text(
+
+'''canvas.create_text(
     735.0,
     73.0,
     anchor="nw",
     text="Telangana, India",
     fill="#FFFFFF",
     font=("Inter", 16 * -1)
-)
+)'''
 # weather icon
 canvas.create_rectangle(
     747.0,
