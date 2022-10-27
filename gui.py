@@ -111,7 +111,7 @@ def convert_time(timestamp):
 
 # Function to update the temperature
 def update_temperature():
-    temperature_data.config(text=str(data1["current"]["temp"]) + " C")
+    temperature_data.config(text=str(floor(data1["current"]["temp"])) + " ᴼ C")
     temperature_data.after(100,update_temperature)
 
 # Function to update the hourly forecast
@@ -326,6 +326,11 @@ hour_5_desc.place(x=495, y=590)
 hour_6_desc = Label(window, text=data1["hourly"][5]["weather"][0]["main"], font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
 hour_6_desc.place(x=600, y=590)
 
+# Overview label
+overview_label = Label(window, text=" Today Overview", font=("Inter Regular", 15, "bold"), bg="#FFFFFF", fg="#000000")
+overview_label.place(x=110, y=70)
+
+# Right side rectangle with time, temp, location, 3 days forecast, sunrise, sunset
 canvas.create_rectangle(
     715.0,
     0.0,
@@ -333,15 +338,6 @@ canvas.create_rectangle(
     665.0,
     fill="#0F0C29",
     outline="")
-
-canvas.create_text(
-    126.0,
-    86.0,
-    anchor="nw",
-    text="Today Overview",
-    fill="#000000",
-    font=("Inter SemiBold", 16 * -1)
-)
 
 canvas.create_rectangle(
     10.0,
