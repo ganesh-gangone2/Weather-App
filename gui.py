@@ -109,6 +109,8 @@ def update_visibility():
 def convert_time(timestamp):
     return datetime.fromtimestamp(timestamp).strftime("%I:%M %p")
 
+def convert_day(timestamp):
+    return datetime.fromtimestamp(timestamp).strftime("%A")
 # Function to update the temperature
 def update_temperature():
     temperature_data.config(text=str(floor(data1["current"]["temp"])) + " ᴼ C")
@@ -326,9 +328,37 @@ hour_5_desc.place(x=495, y=590)
 hour_6_desc = Label(window, text=data1["hourly"][5]["weather"][0]["main"], font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
 hour_6_desc.place(x=600, y=590)
 
+update_hourly_forecast()
+
 # Overview label
 overview_label = Label(window, text=" Today Overview", font=("Inter Regular", 15, "bold"), bg="#FFFFFF", fg="#000000")
 overview_label.place(x=110, y=70)
+
+# Day 1 label
+day_1 = Label(window, text=convert_day(data1["daily"][0]["dt"]), font=("Inter Regular", 12, "bold"), bg="#0F0C29", fg="#FFFFFF")
+day_1.place(x=745, y=270)
+
+# day 2 label
+day_2 = Label(window, text=convert_day(data1["daily"][1]["dt"]), font=("Inter Regular", 12, "bold"), bg="#0F0C29", fg="#FFFFFF")
+day_2.place(x=745, y=330)
+
+# Day 3 label
+day_3 = Label(window, text=convert_day(data1["daily"][2]["dt"]), font=("Inter Regular", 12, "bold"), bg="#0F0C29", fg="#FFFFFF")
+day_3.place(x=745, y=390)
+
+# day 1 temperature
+day_1_temp = Label(window, text=str(floor(data1["daily"][0]["temp"]["day"])) + " ᴼ C", font=("Inter Regular", 12, "bold"), bg="#0F0C29", fg="#FFFFFF")
+day_1_temp.place(x=910, y=270)
+
+# day 2 temperature
+day_2_temp = Label(window, text=str(floor(data1["daily"][1]["temp"]["day"])) + " ᴼ C", font=("Inter Regular", 12, "bold"), bg="#0F0C29", fg="#FFFFFF")
+day_2_temp.place(x=910, y=330)
+
+# day 3 temperature
+day_3_temp = Label(window, text=str(floor(data1["daily"][2]["temp"]["day"])) + " ᴼ C", font=("Inter Regular", 12, "bold"), bg="#0F0C29", fg="#FFFFFF")
+day_3_temp.place(x=910, y=390)
+
+
 
 # Right side rectangle with time, temp, location, 3 days forecast, sunrise, sunset
 canvas.create_rectangle(
@@ -338,6 +368,7 @@ canvas.create_rectangle(
     665.0,
     fill="#0F0C29",
     outline="")
+
 
 # Today Details box
 canvas.create_rectangle(
@@ -402,6 +433,7 @@ canvas.create_rectangle(
     fill="#000000",
     outline="")'''
 
+# Line below Today Overview
 canvas.create_rectangle(
     121.0,
     104.98539733886719,
@@ -410,23 +442,6 @@ canvas.create_rectangle(
     fill="#000000",
     outline="")
 
-canvas.create_text(
-    744.0,
-    392.0,
-    anchor="nw",
-    text="Wednesday",
-    fill="#FFFFFF",
-    font=("Inter Regular", 16 * -1)
-)
-
-canvas.create_text(
-    905.0,
-    395.0,
-    anchor="nw",
-    text="27o C",
-    fill="#FFFFFF",
-    font=("Inter Regular", 16 * -1)
-)
 
 canvas.create_text(
     911.0,
@@ -437,23 +452,6 @@ canvas.create_text(
     font=("Inter Regular", 16 * -1)
 )
 
-canvas.create_text(
-    738.0,
-    332.0,
-    anchor="nw",
-    text="Tomorrow",
-    fill="#FFFFFF",
-    font=("Inter Regular", 16 * -1)
-)
-
-canvas.create_text(
-    906.0,
-    330.0,
-    anchor="nw",
-    text="27o C",
-    fill="#FFFFFF",
-    font=("Inter Regular", 16 * -1)
-)
 
 canvas.create_text(
     905.0,
@@ -464,23 +462,6 @@ canvas.create_text(
     font=("Inter Regular", 16 * -1)
 )
 
-canvas.create_text(
-    728.0,
-    268.0,
-    anchor="nw",
-    text="Today",
-    fill="#FFFFFF",
-    font=("Inter Regular", 16 * -1)
-)
-
-canvas.create_text(
-    914.0,
-    267.0,
-    anchor="nw",
-    text="27o C",
-    fill="#FFFFFF",
-    font=("Inter Regular", 16 * -1)
-)
 
 canvas.create_text(
     906.0,
