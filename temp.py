@@ -43,7 +43,7 @@ window.configure(bg = "#FFFFFF")
 # Defining Canvas
 canvas = Canvas(
     window,
-    bg = "#FFFFFF",
+    bg = "#000000",
     height = 665,
     width = 1035,
     bd = 0,
@@ -82,7 +82,6 @@ icon_img = PhotoImage(file = "icon.png")
 
 # resizing icon
 
-# Defining icon
 # Defining icon
 icon = canvas.create_image(
     515.0,
