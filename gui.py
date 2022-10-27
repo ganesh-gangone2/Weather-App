@@ -161,75 +161,84 @@ canvas.place(x = 0, y = 0)
 
 get_Weather()
 
+# Digital Clock Label
 digital_clock_lbl=Label(window,text="00.00",font=("ds-digital",15),bg="#0F0C29",fg="#FFFFFF")
 digital_clock_lbl.place(x=930,y=35)
 update_clock()
 
+# Temperature Label
 temperature_data = Label(text=str(floor(data1["current"]["temp"])) + " ᴼ C", font=("Inter SemiBold",15,"bold"), bg="#0F0C29", fg="#FFFFFF")
 temperature_data.place(x=930,y=135)
 update_temperature()
 
+# Weather description Label
 weather_desc_data = Label(text=data1["current"]["weather"][0]["main"].title(), font=("Inter SemiBold",20,"bold"), bg="#0F0C29", fg="#FFFFFF")
 weather_desc_data.place(x=920,y=170)
 update_weather_desc()
 
+# Date Label
 date = datetime.now()
 date_time_lbl = Label(window, text=f"{date:%d / %m / %Y \n%A}", font=("Inter SemiBold", 10), bg="#FFFFFF", fg="#000000")
 date_time_lbl.place(x=600, y=25)
 update_date()
 
+# wind speed label
 Wind_speed_lbl = Label(window, text="Wind Speed", font= ("Inter SemiBold",12,"bold"), bg="#0575E6", fg="#FFFFFF")
 Wind_speed_lbl.place(x=150,y=180)
 
-
+# wind speed data
 wind_speed_data= Label(text= str(data1["current"]["wind_speed"]) + " meter/sec", font=("Inter SemiBold",12,"bold"), bg="#0575E6", fg="#FFFFFF")
 wind_speed_data.place(x=150,y=210)
 update_wind_speed()
 
-
+# Humidity label
 humidity_lbl = Label(window, text="Humidity", font= ("Inter SemiBold",12, "bold"), bg="#0575E6", fg="#FFFFFF")
 humidity_lbl.place(x=450,y=180)
 
-
+# Humidity data
 humidity_data = Label(text=str(data1["current"]["humidity"])+ "%", font=("Inter Regular",12,"bold"), bg="#0575E6", fg="#FFFFFF")
 humidity_data.place(x=450,y=210)
 update_humidity()
 
-
+# Pressure label
 pressure_lbl = Label(window, text="Pressure", font=("Inter Regular",12,"bold"), bg="#0575E6", fg="#FFFFFF")
 pressure_lbl.place(x=450,y=290)
 
-
+# Pressure data
 pressure_data = Label(window, text=str(data1["current"]["pressure"]) + " hPa",font=("Inter Regular",12,"bold"), bg="#0575E6", fg="#FFFFFF")
 pressure_data.place(x=450,y=320)
 update_pressure()
 
-
+# Uvi Label
 uvi_lbl = Label(window, text="UVI", font=("Inter Regular",12,"bold"), bg="#0575E6", fg="#FFFFFF")
 uvi_lbl.place(x=150,y=290)
 
-
+# Uvi data
 uvi_data = Label(window, text=data1["current"]["uvi"],font=("Inter Regular",12,"bold"), bg="#0575E6", fg="#FFFFFF")
 uvi_data.place(x=150,y=320)
 update_uvi()
 
-
+# dew point label
 dew_point_label = Label(window, text="Dew Point", font=("Inter Regular", 12, "bold"), bg="#0575E6", fg="#FFFFFF")
 dew_point_label.place(x=150, y=390)
 
-
+# dew point data
 dew_point_data = Label(window, text=str(data1["current"]["dew_point"]) + " C", font=("Inter Regular", 12, "bold"), bg="#0575E6", fg="#FFFFFF")
 dew_point_data.place(x=150, y=430)
 update_dewpoint()
 
-
+# visibility label
 visibility_label = Label(window, text="Visibility", font=("Inter Regular", 12, "bold"), bg="#0575E6", fg="#FFFFFF")
 visibility_label.place(x=450, y=390)
 
-
+# visibility data
 visibility_data = Label(window, text=str(data1["current"]["visibility"]) + " meter", font=("Inter Regular", 12, "bold"), bg="#0575E6", fg="#FFFFFF")
 visibility_data.place(x=450, y=430)
 update_visibility()
+
+# Adding sunrise label
+sunrise_label = Label(window, text="Sunrise", font=("Inter Regular", 12, "bold"), bg="#FFFFFF", fg="#000000")
+sunrise_label.place(x=750, y=480)
 
 # Sunrise data label
 sunrise_label = Label(window, text=convert_time(data1["current"]["sunrise"]), font=("Inter Regular", 12, "bold"), bg="#FFFFFF", fg="#000000")
@@ -244,84 +253,78 @@ sunset_label.place(x=750, y=580)
 sunset_data = Label(window, text=convert_time(data1["current"]["sunset"]), font=("Inter Regular", 12, "bold"), bg="#FFFFFF", fg="#000000")
 sunset_data.place(x=750, y=600)
 
+# Hourly Forecast
+# Hour 1 label
 hour_1 = Label(window, text=convert_time(data1["hourly"][0]["dt"]), font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
 hour_1.place(x=55, y=510)
 
-
+# hour 2 Label
 hour_2 = Label(window, text=convert_time(data1["hourly"][1]["dt"]), font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
 hour_2.place(x=170, y=510)
 
-
+# Hour 3 label
 hour_3 = Label(window, text=convert_time(data1["hourly"][2]["dt"]), font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
 hour_3.place(x=285, y=510)
 
-
+# Hour 4 label
 hour_4 = Label(window, text=convert_time(data1["hourly"][3]["dt"]), font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
 hour_4.place(x=390, y=510)
 
-
+# Hour 5 label
 hour_5 = Label(window, text=convert_time(data1["hourly"][4]["dt"]), font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
 hour_5.place(x=495, y=510)
 
-
+# Hour 6 label
 hour_6 = Label(window, text=convert_time(data1["hourly"][5]["dt"]), font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
 hour_6.place(x=600, y=510)
 
-
+# hour 1 temperature
 hour_1_temp = Label(window, text=str(floor(data1["hourly"][0]["temp"])) + " ᴼ C", font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
 hour_1_temp.place(x=55, y=550)
 
-
+# hour 2 temperature
 hour_2_temp = Label(window, text=str(floor(data1["hourly"][1]["temp"])) + " ᴼ C", font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
 hour_2_temp.place(x=170, y=550)
 
-
+# hour 3 temperature
 hour_3_temp = Label(window, text=str(floor(data1["hourly"][2]["temp"])) + " ᴼ C", font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
 hour_3_temp.place(x=285, y=550)
 
-
-
+# hour 4 temperature
 hour_4_temp = Label(window, text=str(floor(data1["hourly"][3]["temp"])) + " ᴼ C", font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
 hour_4_temp.place(x=390, y=550)
 
-
-
+# hour 5 temperature
 hour_5_temp = Label(window, text=str(floor(data1["hourly"][4]["temp"])) + " ᴼ C", font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
 hour_5_temp.place(x=495, y=550)
 
-
+# hour 6 temperature
 hour_6_temp = Label(window, text=str(floor(data1["hourly"][5]["temp"])) + " ᴼ C", font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
 hour_6_temp.place(x=600, y=550)
 
-
+# hour 1 description
 hour_1_desc = Label(window, text=data1["hourly"][0]["weather"][0]["main"], font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
 hour_1_desc.place(x=55, y=590)
 
-
-
+# hour 2 description
 hour_2_desc = Label(window, text=data1["hourly"][1]["weather"][0]["main"], font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
 hour_2_desc.place(x=170, y=590)
 
-
+# hour 3 description
 hour_3_desc = Label(window, text=data1["hourly"][2]["weather"][0]["main"], font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
 hour_3_desc.place(x=285, y=590)
 
-
+# hour 4 description
 hour_4_desc = Label(window, text=data1["hourly"][3]["weather"][0]["main"], font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
 hour_4_desc.place(x=390, y=590)
 
-
+# hour 5 description
 hour_5_desc = Label(window, text=data1["hourly"][4]["weather"][0]["main"], font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
 hour_5_desc.place(x=495, y=590)
 
-
+# hour 6 description
 hour_6_desc = Label(window, text=data1["hourly"][5]["weather"][0]["main"], font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
 hour_6_desc.place(x=600, y=590)
-
-
-# Adding sunrise label
-sunrise_label = Label(window, text="Sunrise", font=("Inter Regular", 12, "bold"), bg="#FFFFFF", fg="#000000")
-sunrise_label.place(x=750, y=480)
 
 canvas.create_rectangle(
     715.0,
