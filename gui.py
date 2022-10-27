@@ -380,6 +380,18 @@ day_3_desc.place(x=910, y=410)
 state_country = Label(window, text=str(location[0]), font=("Inter Regular", 12, "bold"), bg="#0F0C29", fg="#FFFFFF")
 state_country.place(x=750, y=70)
 
+# icon id
+icon_id = data1["current"]["weather"][0]["icon"]
+# icon url
+icon_url = "http://openweathermap.org/img/wn/" + icon_id + ".png"
+
+# Downloading icon image
+urllib.request.urlretrieve(icon_url, "icon.png")
+
+# Defining icon image
+logo = PhotoImage(file="icon.png")
+logo_label = Label(window, image=logo)
+logo_label.place(x=770, y=140)
 
 # Right side rectangle with time, temp, location, 3 days forecast, sunrise, sunset
 canvas.create_rectangle(
@@ -409,24 +421,6 @@ canvas.create_rectangle(
     fill="#B4D2FF",
     outline="")
 
-# 
-canvas.create_rectangle(
-    759.0,
-    143.0,
-    831.0,
-    202.0,
-    fill="#000000",
-    outline="")
-
-# weather icon
-canvas.create_rectangle(
-    747.0,
-    125.0,
-    853.0,
-    220.0,
-    fill="#FFFFFF",
-    outline="")
-
 # Line below tempearture
 canvas.create_rectangle(
     742.0,
@@ -436,14 +430,6 @@ canvas.create_rectangle(
     fill="#D2AD2B",
     outline="")
 
-# Line below date
-'''canvas.create_rectangle(
-    568.0,
-    46.0,
-    706.0,
-    47.0,
-    fill="#000000",
-    outline="")'''
 
 # Line below Today Overview
 canvas.create_rectangle(
@@ -485,30 +471,6 @@ canvas.create_rectangle(
     999.0,
     635.0,
     fill="#D0B146",
-    outline="")
-
-canvas.create_rectangle(
-    765.1012573242188,
-    152.72373962402344,
-    824.9174499511719,
-    192.3636932373047,
-    fill="#000000",
-    outline="")
-
-canvas.create_rectangle(
-    775.77001953125,
-    166.37875366210938,
-    811.5600280761719,
-    174.98292541503906,
-    fill="#000000",
-    outline="")
-
-canvas.create_rectangle(
-    807.0,
-    155.29165649414062,
-    824.9100036621094,
-    170.60708618164062,
-    fill="#000000",
     outline="")
 
 canvas.create_rectangle(
