@@ -61,20 +61,11 @@ def get_Weather():
         data1 = data
 
 
-# Configuring above canvas text witha function
-def update_time():
-    current_time = time.strftime("%I:%M %p")
-    canvas.itemconfig(time_text, text=current_time)
-    window.after(1000, update_time)
 
-time_text = canvas.create_text(
-    50.0,
-    50.0,
-    anchor="center",
-    text="00:00 AM",
-    fill="black",
-    font=("Roboto", int(40.0))
-)
+# Conerting Timestamp to time
+def convert_time(timestamp):
+    return datetime.fromtimestamp(timestamp).strftime("%I:%M %p")
+
 
 
 window.resizable(False, False)
