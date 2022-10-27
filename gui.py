@@ -440,7 +440,7 @@ canvas.create_rectangle(
     fill="#000000",
     outline="")
 
-
+# sun rise box
 canvas.create_rectangle(
     735.0,
     472.0,
@@ -449,6 +449,7 @@ canvas.create_rectangle(
     fill="#FFFFFF",
     outline="")
 
+# sun rise icon
 canvas.create_rectangle(
     928.0,
     480.0,
@@ -457,6 +458,7 @@ canvas.create_rectangle(
     fill="#D0B146",
     outline="")
 
+# sunset box
 canvas.create_rectangle(
     735.0,
     566.0,
@@ -465,6 +467,7 @@ canvas.create_rectangle(
     fill="#FFFFFF",
     outline="")
 
+#sunrise icon
 canvas.create_rectangle(
     928.0,
     578.0,
@@ -473,6 +476,7 @@ canvas.create_rectangle(
     fill="#D0B146",
     outline="")
 
+# hourly forecast box
 canvas.create_rectangle(
     23.0,
     479.0,
