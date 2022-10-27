@@ -339,6 +339,7 @@ canvas.create_rectangle(
     fill="#0F0C29",
     outline="")
 
+# Today Details box
 canvas.create_rectangle(
     10.0,
     125.0,
@@ -347,6 +348,7 @@ canvas.create_rectangle(
     fill="#0575E6",
     outline="")
 
+# Logo box
 canvas.create_rectangle(
     10.0,
     15.0,
@@ -355,6 +357,7 @@ canvas.create_rectangle(
     fill="#B4D2FF",
     outline="")
 
+# 
 canvas.create_rectangle(
     759.0,
     143.0,
