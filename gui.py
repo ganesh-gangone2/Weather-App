@@ -167,8 +167,8 @@ canvas.place(x = 0, y = 0)
 get_Weather()
 
 # Digital Clock Label
-digital_clock_lbl=Label(window,text="00.00",font=("ds-digital",15),bg="#0F0C29",fg="#FFFFFF")
-digital_clock_lbl.place(x=930,y=35)
+digital_clock_lbl=Label(window,text="00.00",font=("ds-digital",20),bg="#0F0C29",fg="#FFFFFF")
+digital_clock_lbl.place(x=750,y=30)
 update_clock()
 
 # Temperature Label
@@ -376,7 +376,7 @@ day_3_desc.place(x=910, y=410)
 
 # location
 state_country = Label(window, text=str(location[0]), font=("Inter Regular", 12, "bold"), bg="#0F0C29", fg="#FFFFFF")
-state_country.place(x=735, y=75)
+state_country.place(x=750, y=70)
 
 
 # Right side rectangle with time, temp, location, 3 days forecast, sunrise, sunset
@@ -416,16 +416,6 @@ canvas.create_rectangle(
     fill="#000000",
     outline="")
 
-
-
-'''canvas.create_text(
-    735.0,
-    73.0,
-    anchor="nw",
-    text="Telangana, India",
-    fill="#FFFFFF",
-    font=("Inter", 16 * -1)
-)'''
 # weather icon
 canvas.create_rectangle(
     747.0,
