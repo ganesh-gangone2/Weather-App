@@ -800,7 +800,50 @@
     'daily': 
     [
             
-        {'dt': 1666157400, 'sunrise': 1666139725, 'sunset': 1666181930, 'moonrise': 1666120080, 'moonset': 1666168140, 'moon_phase': 0.8, 'temp': {'day': 26.62, 'min': 23.4, 'max': 29.82, 'night': 24.48, 'eve': 29.09, 'morn': 23.71}, 'feels_like': {'day': 26.62, 'night': 25.31, 'eve': 33.71, 'morn': 24.51}, 'pressure': 1012, 'humidity': 82, 'dew_point': 23.29, 'wind_speed': 2.38, 'wind_deg': 157, 'wind_gust': 3.65, 'weather': [{'id': 501, 'main': 'Rain', 'description': 'moderate rain', 'icon': '10d'}], 'clouds': 67, 'pop': 0.99, 'rain': 9.33, 'uvi': 9.12},
+        {
+            'dt': 1666157400, 
+            'sunrise': 1666139725, 
+            'sunset': 1666181930, 
+            'moonrise': 1666120080, 
+            'moonset': 1666168140, 
+            'moon_phase': 0.8, 
+            'temp': 
+            {
+                'day': 26.62, 
+                'min': 23.4, 
+                'max': 29.82, 
+                'night': 24.48, 
+                'eve': 29.09, 
+                'morn': 23.71
+            }, 
+            'feels_like': 
+            {
+                'day': 26.62, 
+                'night': 25.31, 
+                'eve': 33.71, 
+                'morn': 24.51
+            }, 
+            'pressure': 1012, 
+            'humidity': 82, 
+            'dew_point': 23.29, 
+            'wind_speed': 2.38, 
+            'wind_deg': 157, 
+            'wind_gust': 3.65, 
+            'weather': 
+            [
+                {
+                    'id': 501, 
+                    'main': 'Rain', 
+                    'description': 
+                    'moderate rain', 
+                    'icon': '10d'
+                }
+            ], 
+            'clouds': 67, 
+            'pop': 0.99, 
+            'rain': 9.33, 
+            'uvi': 9.12
+        },
         
         {'dt': 1666243800, 'sunrise': 1666226140, 'sunset': 1666268293, 'moonrise': 1666209660, 'moonset': 1666256940, 'moon_phase': 0.83, 'temp': {'day': 28.28, 'min': 23.17, 'max': 29.71, 'night': 24.41, 'eve': 28.92, 'morn': 23.29}, 'feels_like': {'day': 31.52, 'night': 25.2, 'eve': 33.11, 'morn': 24.1}, 'pressure': 1013, 'humidity': 72, 'dew_point': 22.68, 'wind_speed': 3.58, 'wind_deg': 86, 'wind_gust': 4.18, 'weather': [{'id': 501, 'main': 'Rain', 'description': 'moderate rain', 'icon': '10d'}], 'clouds': 48, 'pop': 0.77, 'rain': 3.09, 'uvi': 9.51},
         
