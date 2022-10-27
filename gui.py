@@ -328,7 +328,7 @@ hour_5_desc.place(x=495, y=590)
 hour_6_desc = Label(window, text=data1["hourly"][5]["weather"][0]["main"], font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
 hour_6_desc.place(x=600, y=590)
 
-update_hourly_forecast()
+#update_hourly_forecast()
 
 # Overview label
 overview_label = Label(window, text=" Today Overview", font=("Inter Regular", 15, "bold"), bg="#FFFFFF", fg="#000000")
@@ -357,6 +357,20 @@ day_2_temp.place(x=910, y=330)
 # day 3 temperature
 day_3_temp = Label(window, text=str(floor(data1["daily"][2]["temp"]["day"])) + " ᴼ C", font=("Inter Regular", 12, "bold"), bg="#0F0C29", fg="#FFFFFF")
 day_3_temp.place(x=910, y=390)
+
+
+# day 1 desc label
+day_1_desc = Label(window, text=data1["daily"][0]["weather"][0]["main"], font=("Inter Regular", 12, "bold"), bg="#0F0C29", fg="#FFFFFF")
+day_1_desc.place(x=910, y=290)
+
+# day 2 desc label
+day_2_desc = Label(window, text=data1["daily"][1]["weather"][0]["main"], font=("Inter Regular", 12, "bold"), bg="#0F0C29", fg="#FFFFFF")
+day_2_desc.place(x=910, y=350)
+
+# day 3 desc
+day_3_desc = Label(window, text=data1["daily"][2]["weather"][0]["main"], font=("Inter Regular", 12, "bold"), bg="#0F0C29", fg="#FFFFFF")
+day_3_desc.place(x=910, y=410)
+
 
 
 
@@ -442,35 +456,6 @@ canvas.create_rectangle(
     fill="#000000",
     outline="")
 
-
-canvas.create_text(
-    911.0,
-    417.0,
-    anchor="nw",
-    text="Thunderstorm",
-    fill="#FFFFFF",
-    font=("Inter Regular", 16 * -1)
-)
-
-
-canvas.create_text(
-    905.0,
-    357.0,
-    anchor="nw",
-    text="Mist",
-    fill="#FFFFFF",
-    font=("Inter Regular", 16 * -1)
-)
-
-
-canvas.create_text(
-    906.0,
-    290.0,
-    anchor="nw",
-    text="Rainy",
-    fill="#FFFFFF",
-    font=("Inter Regular", 16 * -1)
-)
 
 canvas.create_rectangle(
     735.0,
