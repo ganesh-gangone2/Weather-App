@@ -26,7 +26,7 @@ window = Tk()
 # Setting window size
 window.geometry("1035x665")
 window.configure(bg = "#FFFFFF")
-
+window.title("Weather App")
 # Defining Canvas
 canvas = Canvas(
     window,
