@@ -143,10 +143,6 @@ try:
         hour_9_temp.after(3600000,update_hourly_forecast)
         hour_10_temp.config(text=str(floor(data1["hourly"][9]["temp"])) + " ᴼ C")
         hour_10_temp.after(3600000,update_hourly_forecast)
-        hour_11_temp.config(text=str(floor(data1["hourly"][10]["temp"])) + " ᴼ C")
-        hour_11_temp.after(3600000,update_hourly_forecast)
-        hour_12_temp.config(text=str(floor(data1["hourly"][11]["temp"])) + " ᴼ C")
-        hour_12_temp.after(3600000,update_hourly_forecast)
 
         # Updating time
         hour_1.config(text=convert_time(data1["hourly"][0]["dt"]))
@@ -169,10 +165,6 @@ try:
         hour_9.after(3600000,update_hourly_forecast)
         hour_10.config(text=convert_time(data1["hourly"][9]["dt"]))
         hour_10.after(3600000,update_hourly_forecast)
-        hour_11.config(text=convert_time(data1["hourly"][10]["dt"]))
-        hour_11.after(3600000,update_hourly_forecast)
-        hour_12.config(text=convert_time(data1["hourly"][11]["dt"]))
-        hour_12.after(3600000,update_hourly_forecast)
 
         # updating description
         hour_1_desc.config(text=data1["hourly"][0]["weather"][0]["main"].title())
@@ -195,11 +187,6 @@ try:
         hour_9_desc.after(3600000,update_hourly_forecast)
         hour_10_desc.config(text=data1["hourly"][9]["weather"][0]["main"].title())
         hour_10_desc.after(3600000,update_hourly_forecast)
-        hour_11_desc.config(text=data1["hourly"][10]["weather"][0]["main"].title())
-        hour_11_desc.after(3600000,update_hourly_forecast)
-        hour_12_desc.config(text=data1["hourly"][11]["weather"][0]["main"].title())
-        hour_12_desc.after(3600000,update_hourly_forecast)
-        
 
     def update_daily_forecast():
         day_1_temp.config(text=str(floor(data1["daily"][0]["temp"]["day"])) + " ᴼ C")
@@ -312,148 +299,124 @@ try:
     # Hourly Forecast
     # Hour 1 label
     hour_1 = Label(window, text=convert_time(data1["hourly"][0]["dt"]), font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
-    hour_1.place(x=55, y=510)
+    hour_1.place(x=40, y=510)
 
     # hour 2 Label
     hour_2 = Label(window, text=convert_time(data1["hourly"][1]["dt"]), font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
-    hour_2.place(x=170, y=510)
+    hour_2.place(x=140, y=510)
 
     # Hour 3 label
     hour_3 = Label(window, text=convert_time(data1["hourly"][2]["dt"]), font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
-    hour_3.place(x=285, y=510)
+    hour_3.place(x=240, y=510)
 
     # Hour 4 label
     hour_4 = Label(window, text=convert_time(data1["hourly"][3]["dt"]), font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
-    hour_4.place(x=390, y=510)
+    hour_4.place(x=340, y=510)
 
     # Hour 5 label
     hour_5 = Label(window, text=convert_time(data1["hourly"][4]["dt"]), font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
-    hour_5.place(x=495, y=510)
+    hour_5.place(x=440, y=510)
 
     # Hour 6 label
     hour_6 = Label(window, text=convert_time(data1["hourly"][5]["dt"]), font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
-    hour_6.place(x=600, y=510)
+    hour_6.place(x=540, y=510)
 
     # Hour 7 label
     hour_7 = Label(window, text=convert_time(data1["hourly"][6]["dt"]), font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
-    hour_7.place(x=705, y=510)
+    hour_7.place(x=640, y=510)
 
     # Hour 8 label
     hour_8 = Label(window, text=convert_time(data1["hourly"][7]["dt"]), font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
-    hour_8.place(x=810, y=510)
+    hour_8.place(x=740, y=510)
 
     # Hour 9 label
     hour_9 = Label(window, text=convert_time(data1["hourly"][8]["dt"]), font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
-    hour_9.place(x=915, y=510)
+    hour_9.place(x=840, y=510)
 
     # Hour 10 label
     hour_10 = Label(window, text=convert_time(data1["hourly"][9]["dt"]), font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
-    hour_10.place(x=1020, y=510)
-
-    # Hour 11 label
-    hour_11 = Label(window, text=convert_time(data1["hourly"][10]["dt"]), font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
-    hour_11.place(x=1125, y=510)
-
-    # Hour 12 label
-    hour_12 = Label(window, text=convert_time(data1["hourly"][11]["dt"]), font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
-    hour_12.place(x=1230, y=510)
+    hour_10.place(x=940, y=510)
 
     # hour 1 temperature
     hour_1_temp = Label(window, text=str(floor(data1["hourly"][0]["temp"])) + " ᴼ C", font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
-    hour_1_temp.place(x=55, y=550)
+    hour_1_temp.place(x=40, y=550)
 
     # hour 2 temperature
     hour_2_temp = Label(window, text=str(floor(data1["hourly"][1]["temp"])) + " ᴼ C", font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
-    hour_2_temp.place(x=170, y=550)
+    hour_2_temp.place(x=140, y=550)
 
     # hour 3 temperature
     hour_3_temp = Label(window, text=str(floor(data1["hourly"][2]["temp"])) + " ᴼ C", font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
-    hour_3_temp.place(x=285, y=550)
+    hour_3_temp.place(x=240, y=550)
 
     # hour 4 temperature
     hour_4_temp = Label(window, text=str(floor(data1["hourly"][3]["temp"])) + " ᴼ C", font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
-    hour_4_temp.place(x=390, y=550)
+    hour_4_temp.place(x=340, y=550)
 
     # hour 5 temperature
     hour_5_temp = Label(window, text=str(floor(data1["hourly"][4]["temp"])) + " ᴼ C", font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
-    hour_5_temp.place(x=495, y=550)
+    hour_5_temp.place(x=440, y=550)
 
     # hour 6 temperature
     hour_6_temp = Label(window, text=str(floor(data1["hourly"][5]["temp"])) + " ᴼ C", font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
-    hour_6_temp.place(x=600, y=550)
+    hour_6_temp.place(x=540, y=550)
 
     # hour 7 temperature
     hour_7_temp = Label(window, text=str(floor(data1["hourly"][6]["temp"])) + " ᴼ C", font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
-    hour_7_temp.place(x=705, y=550)
+    hour_7_temp.place(x=640, y=550)
 
     # hour 8 temperature
     hour_8_temp = Label(window, text=str(floor(data1["hourly"][7]["temp"])) + " ᴼ C", font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
-    hour_8_temp.place(x=810, y=550)
+    hour_8_temp.place(x=740, y=550)
 
     # hour 9 temperature
     hour_9_temp = Label(window, text=str(floor(data1["hourly"][8]["temp"])) + " ᴼ C", font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
-    hour_9_temp.place(x=915, y=550)
+    hour_9_temp.place(x=840, y=550)
 
     # hour 10 temperature
     hour_10_temp = Label(window, text=str(floor(data1["hourly"][9]["temp"])) + " ᴼ C", font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
-    hour_10_temp.place(x=1020, y=550)
-
-    # hour 11 temperature
-    hour_11_temp = Label(window, text=str(floor(data1["hourly"][10]["temp"])) + " ᴼ C", font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
-    hour_11_temp.place(x=1125, y=550)
-
-    # hour 12 temperature
-    hour_12_temp = Label(window, text=str(floor(data1["hourly"][11]["temp"])) + " ᴼ C", font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
-    hour_12_temp.place(x=1230, y=550)
+    hour_10_temp.place(x=940, y=550)
 
 
     # hour 1 description
     hour_1_desc = Label(window, text=data1["hourly"][0]["weather"][0]["main"], font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
-    hour_1_desc.place(x=55, y=590)
+    hour_1_desc.place(x=40, y=590)
 
     # hour 2 description
     hour_2_desc = Label(window, text=data1["hourly"][1]["weather"][0]["main"], font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
-    hour_2_desc.place(x=170, y=590)
+    hour_2_desc.place(x=140, y=590)
 
     # hour 3 description
     hour_3_desc = Label(window, text=data1["hourly"][2]["weather"][0]["main"], font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
-    hour_3_desc.place(x=285, y=590)
+    hour_3_desc.place(x=240, y=590)
 
     # hour 4 description
     hour_4_desc = Label(window, text=data1["hourly"][3]["weather"][0]["main"], font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
-    hour_4_desc.place(x=390, y=590)
+    hour_4_desc.place(x=340, y=590)
 
     # hour 5 description
     hour_5_desc = Label(window, text=data1["hourly"][4]["weather"][0]["main"], font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
-    hour_5_desc.place(x=495, y=590)
+    hour_5_desc.place(x=440, y=590)
 
     # hour 6 description
     hour_6_desc = Label(window, text=data1["hourly"][5]["weather"][0]["main"], font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
-    hour_6_desc.place(x=600, y=590)
+    hour_6_desc.place(x=540, y=590)
 
     # hour 7 description
     hour_7_desc = Label(window, text=data1["hourly"][6]["weather"][0]["main"], font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
-    hour_7_desc.place(x=705, y=590)
+    hour_7_desc.place(x=640, y=590)
 
     # hour 8 description
     hour_8_desc = Label(window, text=data1["hourly"][7]["weather"][0]["main"], font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
-    hour_8_desc.place(x=810, y=590)
+    hour_8_desc.place(x=740, y=590)
 
     # hour 9 description
     hour_9_desc = Label(window, text=data1["hourly"][8]["weather"][0]["main"], font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
-    hour_9_desc.place(x=915, y=590)
+    hour_9_desc.place(x=840, y=590)
 
     # hour 10 description
     hour_10_desc = Label(window, text=data1["hourly"][9]["weather"][0]["main"], font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
-    hour_10_desc.place(x=1020, y=590)
-
-    # hour 11 description
-    hour_11_desc = Label(window, text=data1["hourly"][10]["weather"][0]["main"], font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
-    hour_11_desc.place(x=1125, y=590)
-
-    # hour 12 description
-    hour_12_desc = Label(window, text=data1["hourly"][11]["weather"][0]["main"], font=("Inter Regular", 12, "bold"), bg="#41295A", fg="#FFFFFF")
-    hour_12_desc.place(x=1230, y=590)
+    hour_10_desc.place(x=940, y=590)
 
     update_hourly_forecast()
 
