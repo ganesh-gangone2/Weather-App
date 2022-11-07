@@ -46,7 +46,7 @@ try:
             cordinates = g.latlng
             global geo_position
             geo_position = cordinates
-            api_key = "Your API key"
+            api_key = "8a7a7bedb7f79d4e68c2405b11725a61"
             lat = cordinates[0]
             lon = cordinates[1]
             url1 = "https://api.openweathermap.org/data/2.5/onecall?lat=%s&lon=%s&appid=%s&units=metric" % (lat, lon, api_key)
@@ -202,73 +202,73 @@ try:
 
     # wind speed label
     Wind_speed_lbl = Label(window, text="Wind Speed", font= ("Inter SemiBold",12,"bold"), bg="#0575E6", fg="#FFFFFF")
-    Wind_speed_lbl.place(x=150,y=180)
+    Wind_speed_lbl.place(x=50,y=180)
 
     # wind speed data
     wind_speed_data= Label(text= str(data1["current"]["wind_speed"]) + " meter/sec", font=("Inter SemiBold",12,"bold"), bg="#0575E6", fg="#FFFFFF")
-    wind_speed_data.place(x=150,y=210)
+    wind_speed_data.place(x=50,y=210)
     update_wind_speed()
 
     # Humidity label
     humidity_lbl = Label(window, text="Humidity", font= ("Inter SemiBold",12, "bold"), bg="#0575E6", fg="#FFFFFF")
-    humidity_lbl.place(x=450,y=180)
+    humidity_lbl.place(x=250,y=180)
 
     # Humidity data
     humidity_data = Label(text=str(data1["current"]["humidity"])+ "%", font=("Inter Regular",12,"bold"), bg="#0575E6", fg="#FFFFFF")
-    humidity_data.place(x=450,y=210)
+    humidity_data.place(x=250,y=210)
     update_humidity()
 
     # Pressure label
     pressure_lbl = Label(window, text="Pressure", font=("Inter Regular",12,"bold"), bg="#0575E6", fg="#FFFFFF")
-    pressure_lbl.place(x=450,y=290)
+    pressure_lbl.place(x=250,y=290)
 
     # Pressure data
     pressure_data = Label(window, text=str(data1["current"]["pressure"]) + " hPa",font=("Inter Regular",12,"bold"), bg="#0575E6", fg="#FFFFFF")
-    pressure_data.place(x=450,y=320)
+    pressure_data.place(x=250,y=320)
     update_pressure()
 
     # Uvi Label
     uvi_lbl = Label(window, text="UVI", font=("Inter Regular",12,"bold"), bg="#0575E6", fg="#FFFFFF")
-    uvi_lbl.place(x=150,y=290)
+    uvi_lbl.place(x=50,y=290)
 
     # Uvi data
     uvi_data = Label(window, text=data1["current"]["uvi"],font=("Inter Regular",12,"bold"), bg="#0575E6", fg="#FFFFFF")
-    uvi_data.place(x=150,y=320)
+    uvi_data.place(x=50,y=320)
     update_uvi()
 
     # dew point label
     dew_point_label = Label(window, text="Dew Point", font=("Inter Regular", 12, "bold"), bg="#0575E6", fg="#FFFFFF")
-    dew_point_label.place(x=150, y=390)
+    dew_point_label.place(x=50, y=390)
 
     # dew point data
     dew_point_data = Label(window, text=str(data1["current"]["dew_point"]) + " C", font=("Inter Regular", 12, "bold"), bg="#0575E6", fg="#FFFFFF")
-    dew_point_data.place(x=150, y=430)
+    dew_point_data.place(x=50, y=430)
     update_dewpoint()
 
     # visibility label
     visibility_label = Label(window, text="Visibility", font=("Inter Regular", 12, "bold"), bg="#0575E6", fg="#FFFFFF")
-    visibility_label.place(x=450, y=390)
+    visibility_label.place(x=250, y=390)
 
     # visibility data
     visibility_data = Label(window, text=str(data1["current"]["visibility"]) + " meter", font=("Inter Regular", 12, "bold"), bg="#0575E6", fg="#FFFFFF")
-    visibility_data.place(x=450, y=430)
+    visibility_data.place(x=250, y=430)
     update_visibility()
 
     # Adding sunrise label
     sunrise_label = Label(window, text="Sunrise", font=("Inter Regular", 12, "bold"), bg="#FFFFFF", fg="#000000")
-    sunrise_label.place(x=750, y=480)
+    sunrise_label.place(x=420, y=310)
 
     # Sunrise data label
     sunrise_label = Label(window, text=convert_time(data1["current"]["sunrise"]), font=("Inter Regular", 12, "bold"), bg="#FFFFFF", fg="#000000")
-    sunrise_label.place(x=750, y=510)
+    sunrise_label.place(x=420, y=340)
 
     # Adding sunset label
     sunset_label = Label(window, text="Sunset", font=("Inter Regular", 12, "bold"), bg="#FFFFFF", fg="#000000")
-    sunset_label.place(x=750, y=580)
+    sunset_label.place(x=420, y=210)
 
     # Sunset data label
     sunset_data = Label(window, text=convert_time(data1["current"]["sunset"]), font=("Inter Regular", 12, "bold"), bg="#FFFFFF", fg="#000000")
-    sunset_data.place(x=750, y=600)
+    sunset_data.place(x=420, y=240)
 
     # Hourly Forecast
     # Hour 1 label
@@ -407,12 +407,12 @@ try:
     # sunrise icon 
     sunrise = PhotoImage(file="assets/sunrise.png")
     sunrise_icon = Label(window, image=sunrise)
-    sunrise_icon.place(x=930, y=485)
+    sunrise_icon.place(x=620, y=310)
 
     # sunset icon 
     sunset = PhotoImage(file="assets/sunset.png")
     sunset_icon = Label(window, image=sunset)
-    sunset_icon.place(x=930, y=575)
+    sunset_icon.place(x=620, y=205)
 
     # app icon 
     app_icon = PhotoImage(file="assets/logo.png")
@@ -456,25 +456,7 @@ try:
         fill="#000000",
         outline="")
 
-    # sun rise box
-    canvas.create_rectangle(
-        735.0,
-        472.0,
-        1024.0,
-        549.0,
-        fill="#FFFFFF",
-        outline="")
-
-
-    # sunset box
-    canvas.create_rectangle(
-        735.0,
-        566.0,
-        1024.0,
-        643.0,
-        fill="#FFFFFF",
-        outline="")
-
+   
 
     # hourly forecast box
     canvas.create_rectangle(
@@ -484,6 +466,25 @@ try:
         643.0,
         fill="#41295A",
         outline="")
+    
+    # sunset box
+    canvas.create_rectangle(
+        400.0,  # Left
+        200.0, # Top
+        700.0, # Right
+        280.0, # bottom
+        fill="#FFFFFF",
+        outline="")
+    
+     # sun rise box
+    canvas.create_rectangle(
+        400.0,
+        300.0,
+        700.0,
+        380.0,
+        fill="#FFFFFF",
+        outline="")
+    
 
 except:
     # Error message
