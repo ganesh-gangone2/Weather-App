@@ -419,22 +419,22 @@ try:
     app_logo = Label(window, image=app_icon)
     app_logo.place(x=10, y=25)
 
+    # Today Details box
+    canvas.create_rectangle(
+        0.0,
+        125.0,
+        1035.0,
+        665.0,
+        fill="#0575E6",
+        outline="")
+    
     # Right side rectangle with time, temp, location, 3 days forecast, sunrise, sunset
     canvas.create_rectangle(
         715.0,
         0.0,
         1035.0,
-        665.0,
+        480.0,
         fill="#0F0C29",
-        outline="")
-
-    # Today Details box
-    canvas.create_rectangle(
-        0.0,
-        125.0,
-        715.0,
-        665.0,
-        fill="#0575E6",
         outline="")
 
     # Line below tempearture
@@ -450,8 +450,8 @@ try:
     # Line below Today Overview
     canvas.create_rectangle(
         121.0,
-        104.98539733886719,
-        260.99989318847656,
+        104.0,
+        280.0,
         107.0,
         fill="#000000",
         outline="")
@@ -460,10 +460,10 @@ try:
 
     # hourly forecast box
     canvas.create_rectangle(
-        23.0,
-        479.0,
-        696.0,
-        643.0,
+        0.0,
+        480.0,
+        1035.0,
+        665.0,
         fill="#41295A",
         outline="")
     
