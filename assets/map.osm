@@ -1,0 +1,2060 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.8 (3357724 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="17.1875300" minlon="78.6488200" maxlat="17.1893100" maxlon="78.6520000"/>
+ <node id="2410864155" visible="true" version="2" changeset="60181610" timestamp="2018-06-26T12:30:28Z" user="Janga Navya Reddy" uid="8403687" lat="17.1884660" lon="78.6546594"/>
+ <node id="2714061051" visible="true" version="1" changeset="21064973" timestamp="2014-03-12T14:27:40Z" user="Chris_Baker" uid="1671545" lat="17.1872428" lon="78.6496439"/>
+ <node id="2714061058" visible="true" version="1" changeset="21064973" timestamp="2014-03-12T14:27:41Z" user="Chris_Baker" uid="1671545" lat="17.1874221" lon="78.6502147"/>
+ <node id="2714061060" visible="true" version="1" changeset="21064973" timestamp="2014-03-12T14:27:41Z" user="Chris_Baker" uid="1671545" lat="17.1875369" lon="78.6506128"/>
+ <node id="2714061062" visible="true" version="2" changeset="39195617" timestamp="2016-05-09T07:29:48Z" user="Akash Kumar burman" uid="2662203" lat="17.1873505" lon="78.6526507"/>
+ <node id="2714061065" visible="true" version="2" changeset="60177076" timestamp="2018-06-26T10:14:45Z" user="Janga Navya Reddy" uid="8403687" lat="17.1875623" lon="78.6509956"/>
+ <node id="2714061085" visible="true" version="1" changeset="21064973" timestamp="2014-03-12T14:27:41Z" user="Chris_Baker" uid="1671545" lat="17.1892662" lon="78.6491633"/>
+ <node id="2714061086" visible="true" version="1" changeset="21064973" timestamp="2014-03-12T14:27:41Z" user="Chris_Baker" uid="1671545" lat="17.1894814" lon="78.6493360"/>
+ <node id="2714061109" visible="true" version="2" changeset="60178336" timestamp="2018-06-26T10:57:52Z" user="Janga Navya Reddy" uid="8403687" lat="17.1902899" lon="78.6482765"/>
+ <node id="2714061128" visible="true" version="3" changeset="60178336" timestamp="2018-06-26T10:57:52Z" user="Janga Navya Reddy" uid="8403687" lat="17.1905482" lon="78.6498542"/>
+ <node id="4174054543" visible="true" version="2" changeset="53799631" timestamp="2017-11-15T11:09:02Z" user="Akash Kumar burman" uid="2662203" lat="17.1901707" lon="78.6497355"/>
+ <node id="4174054544" visible="true" version="2" changeset="53799631" timestamp="2017-11-15T11:09:02Z" user="Akash Kumar burman" uid="2662203" lat="17.1899285" lon="78.6512599"/>
+ <node id="5230130849" visible="true" version="1" changeset="53799631" timestamp="2017-11-15T11:08:54Z" user="Akash Kumar burman" uid="2662203" lat="17.1885358" lon="78.6509757"/>
+ <node id="5230130850" visible="true" version="1" changeset="53799631" timestamp="2017-11-15T11:08:54Z" user="Akash Kumar burman" uid="2662203" lat="17.1898505" lon="78.6513694"/>
+ <node id="5230130851" visible="true" version="1" changeset="53799631" timestamp="2017-11-15T11:08:54Z" user="Akash Kumar burman" uid="2662203" lat="17.1887011" lon="78.6493577"/>
+ <node id="5230130852" visible="true" version="1" changeset="53799631" timestamp="2017-11-15T11:08:54Z" user="Akash Kumar burman" uid="2662203" lat="17.1884501" lon="78.6505446"/>
+ <node id="5230130853" visible="true" version="1" changeset="53799631" timestamp="2017-11-15T11:08:54Z" user="Akash Kumar burman" uid="2662203" lat="17.1893224" lon="78.6492084"/>
+ <node id="5230130854" visible="true" version="2" changeset="60177076" timestamp="2018-06-26T10:14:45Z" user="Janga Navya Reddy" uid="8403687" lat="17.1888549" lon="78.6510714"/>
+ <node id="5230130855" visible="true" version="1" changeset="53799631" timestamp="2017-11-15T11:08:54Z" user="Akash Kumar burman" uid="2662203" lat="17.1898775" lon="78.6495656"/>
+ <node id="5230130856" visible="true" version="1" changeset="53799631" timestamp="2017-11-15T11:08:54Z" user="Akash Kumar burman" uid="2662203" lat="17.1895747" lon="78.6512868"/>
+ <node id="5230196544" visible="true" version="1" changeset="53800505" timestamp="2017-11-15T11:40:09Z" user="Akash Kumar burman" uid="2662203" lat="17.1896507" lon="78.6518604"/>
+ <node id="5230196551" visible="true" version="2" changeset="60181610" timestamp="2018-06-26T12:30:31Z" user="Janga Navya Reddy" uid="8403687" lat="17.1890741" lon="78.6486562"/>
+ <node id="5230196552" visible="true" version="3" changeset="60178336" timestamp="2018-06-26T10:57:52Z" user="Janga Navya Reddy" uid="8403687" lat="17.1896081" lon="78.6487123"/>
+ <node id="5230196553" visible="true" version="3" changeset="60181610" timestamp="2018-06-26T12:30:31Z" user="Janga Navya Reddy" uid="8403687" lat="17.1892332" lon="78.6490205"/>
+ <node id="5230196556" visible="true" version="1" changeset="53800505" timestamp="2017-11-15T11:40:09Z" user="Akash Kumar burman" uid="2662203" lat="17.1897375" lon="78.6516471"/>
+ <node id="5230196557" visible="true" version="2" changeset="60181610" timestamp="2018-06-26T12:30:31Z" user="Janga Navya Reddy" uid="8403687" lat="17.1893688" lon="78.6519579"/>
+ <node id="5230196558" visible="true" version="1" changeset="53800505" timestamp="2017-11-15T11:40:09Z" user="Akash Kumar burman" uid="2662203" lat="17.1881634" lon="78.6516025"/>
+ <node id="5230196559" visible="true" version="1" changeset="53800505" timestamp="2017-11-15T11:40:09Z" user="Akash Kumar burman" uid="2662203" lat="17.1879210" lon="78.6516892"/>
+ <node id="5230196560" visible="true" version="1" changeset="53800505" timestamp="2017-11-15T11:40:09Z" user="Akash Kumar burman" uid="2662203" lat="17.1874681" lon="78.6516856"/>
+ <node id="5230196561" visible="true" version="1" changeset="53800505" timestamp="2017-11-15T11:40:09Z" user="Akash Kumar burman" uid="2662203" lat="17.1886661" lon="78.6517226"/>
+ <node id="5230196562" visible="true" version="1" changeset="53800505" timestamp="2017-11-15T11:40:09Z" user="Akash Kumar burman" uid="2662203" lat="17.1887824" lon="78.6513990"/>
+ <node id="5230196563" visible="true" version="1" changeset="53800505" timestamp="2017-11-15T11:40:09Z" user="Akash Kumar burman" uid="2662203" lat="17.1887843" lon="78.6489372"/>
+ <node id="5230196564" visible="true" version="1" changeset="53800505" timestamp="2017-11-15T11:40:09Z" user="Akash Kumar burman" uid="2662203" lat="17.1852480" lon="78.6505626"/>
+ <node id="5230196568" visible="true" version="1" changeset="53800505" timestamp="2017-11-15T11:40:09Z" user="Akash Kumar burman" uid="2662203" lat="17.1874476" lon="78.6518533"/>
+ <node id="5230196569" visible="true" version="1" changeset="53800505" timestamp="2017-11-15T11:40:09Z" user="Akash Kumar burman" uid="2662203" lat="17.1853954" lon="78.6508557"/>
+ <node id="5230196570" visible="true" version="1" changeset="53800505" timestamp="2017-11-15T11:40:09Z" user="Akash Kumar burman" uid="2662203" lat="17.1875133" lon="78.6513141"/>
+ <node id="5230196573" visible="true" version="1" changeset="53800505" timestamp="2017-11-15T11:40:09Z" user="Akash Kumar burman" uid="2662203" lat="17.1862929" lon="78.6500814"/>
+ <node id="5230196575" visible="true" version="1" changeset="53800505" timestamp="2017-11-15T11:40:09Z" user="Akash Kumar burman" uid="2662203" lat="17.1864540" lon="78.6508986"/>
+ <node id="5230196579" visible="true" version="1" changeset="53800505" timestamp="2017-11-15T11:40:09Z" user="Akash Kumar burman" uid="2662203" lat="17.1873561" lon="78.6526050"/>
+ <node id="5230196588" visible="true" version="1" changeset="53800505" timestamp="2017-11-15T11:40:10Z" user="Akash Kumar burman" uid="2662203" lat="17.1874055" lon="78.6522352"/>
+ <node id="5230196591" visible="true" version="1" changeset="53800505" timestamp="2017-11-15T11:40:10Z" user="Akash Kumar burman" uid="2662203" lat="17.1864293" lon="78.6505007"/>
+ <node id="5230196592" visible="true" version="1" changeset="53800505" timestamp="2017-11-15T11:40:10Z" user="Akash Kumar burman" uid="2662203" lat="17.1860832" lon="78.6505448"/>
+ <node id="5230196593" visible="true" version="1" changeset="53800505" timestamp="2017-11-15T11:40:10Z" user="Akash Kumar burman" uid="2662203" lat="17.1860821" lon="78.6508835"/>
+ <node id="5230196594" visible="true" version="1" changeset="53800505" timestamp="2017-11-15T11:40:10Z" user="Akash Kumar burman" uid="2662203" lat="17.1873479" lon="78.6499785"/>
+ <node id="5230196596" visible="true" version="1" changeset="53800505" timestamp="2017-11-15T11:40:10Z" user="Akash Kumar burman" uid="2662203" lat="17.1874568" lon="78.6503006"/>
+ <node id="5230196597" visible="true" version="1" changeset="53800505" timestamp="2017-11-15T11:40:10Z" user="Akash Kumar burman" uid="2662203" lat="17.1869049" lon="78.6505489"/>
+ <node id="5230196598" visible="true" version="1" changeset="53800505" timestamp="2017-11-15T11:40:10Z" user="Akash Kumar burman" uid="2662203" lat="17.1886127" lon="78.6497759"/>
+ <node id="5230196599" visible="true" version="1" changeset="53800505" timestamp="2017-11-15T11:40:10Z" user="Akash Kumar burman" uid="2662203" lat="17.1885280" lon="78.6501763"/>
+ <node id="5230196600" visible="true" version="2" changeset="60177912" timestamp="2018-06-26T10:43:55Z" user="Janga Navya Reddy" uid="8403687" lat="17.1875589" lon="78.6505650"/>
+ <node id="5230196601" visible="true" version="1" changeset="53800505" timestamp="2017-11-15T11:40:10Z" user="Akash Kumar burman" uid="2662203" lat="17.1892302" lon="78.6496139"/>
+ <node id="5230196602" visible="true" version="1" changeset="53800505" timestamp="2017-11-15T11:40:10Z" user="Akash Kumar burman" uid="2662203" lat="17.1886736" lon="78.6494878"/>
+ <node id="5230196603" visible="true" version="1" changeset="53800505" timestamp="2017-11-15T11:40:10Z" user="Akash Kumar burman" uid="2662203" lat="17.1890182" lon="78.6505458"/>
+ <node id="5230196604" visible="true" version="1" changeset="53800505" timestamp="2017-11-15T11:40:10Z" user="Akash Kumar burman" uid="2662203" lat="17.1884783" lon="78.6504113"/>
+ <node id="5230196615" visible="true" version="1" changeset="53800505" timestamp="2017-11-15T11:40:10Z" user="Akash Kumar burman" uid="2662203" lat="17.1879946" lon="78.6516629"/>
+ <node id="5230196616" visible="true" version="2" changeset="60181610" timestamp="2018-06-26T12:30:31Z" user="Janga Navya Reddy" uid="8403687" lat="17.1877157" lon="78.6548956"/>
+ <node id="5230196617" visible="true" version="1" changeset="53800505" timestamp="2017-11-15T11:40:10Z" user="Akash Kumar burman" uid="2662203" lat="17.1888618" lon="78.6517693"/>
+ <node id="5230196619" visible="true" version="1" changeset="53800505" timestamp="2017-11-15T11:40:10Z" user="Akash Kumar burman" uid="2662203" lat="17.1878533" lon="78.6530320"/>
+ <node id="5230196620" visible="true" version="2" changeset="60177076" timestamp="2018-06-26T10:14:45Z" user="Janga Navya Reddy" uid="8403687" lat="17.1886192" lon="78.6532372"/>
+ <node id="5230196823" visible="true" version="1" changeset="53800505" timestamp="2017-11-15T11:40:10Z" user="Akash Kumar burman" uid="2662203" lat="17.1894861" lon="78.6515818"/>
+ <node id="5230196830" visible="true" version="1" changeset="53800505" timestamp="2017-11-15T11:40:10Z" user="Akash Kumar burman" uid="2662203" lat="17.1897169" lon="78.6504785"/>
+ <node id="5230196831" visible="true" version="2" changeset="60177912" timestamp="2018-06-26T10:43:55Z" user="Janga Navya Reddy" uid="8403687" lat="17.1890626" lon="78.6503659"/>
+ <node id="5232285377" visible="true" version="2" changeset="60177912" timestamp="2018-06-26T10:43:55Z" user="Janga Navya Reddy" uid="8403687" lat="17.1877431" lon="78.6539259"/>
+ <node id="5232285379" visible="true" version="1" changeset="53833590" timestamp="2017-11-16T08:51:29Z" user="Akash Kumar burman" uid="2662203" lat="17.1877977" lon="78.6535710"/>
+ <node id="5232286926" visible="true" version="1" changeset="53833590" timestamp="2017-11-16T08:51:30Z" user="Akash Kumar burman" uid="2662203" lat="17.1891021" lon="78.6514820"/>
+ <node id="5232286927" visible="true" version="1" changeset="53833590" timestamp="2017-11-16T08:51:30Z" user="Akash Kumar burman" uid="2662203" lat="17.1890124" lon="78.6518053"/>
+ <node id="5232286928" visible="true" version="1" changeset="53833590" timestamp="2017-11-16T08:51:30Z" user="Akash Kumar burman" uid="2662203" lat="17.1896318" lon="78.6509620"/>
+ <node id="5232286929" visible="true" version="1" changeset="53833590" timestamp="2017-11-16T08:51:30Z" user="Akash Kumar burman" uid="2662203" lat="17.1889653" lon="78.6507784"/>
+ <node id="5232286930" visible="true" version="1" changeset="53833590" timestamp="2017-11-16T08:51:30Z" user="Akash Kumar burman" uid="2662203" lat="17.1881935" lon="78.6512603"/>
+ <node id="5232286931" visible="true" version="1" changeset="53833590" timestamp="2017-11-16T08:51:30Z" user="Akash Kumar burman" uid="2662203" lat="17.1882323" lon="78.6509656"/>
+ <node id="5232286932" visible="true" version="1" changeset="53833590" timestamp="2017-11-16T08:51:30Z" user="Akash Kumar burman" uid="2662203" lat="17.1880820" lon="78.6513618"/>
+ <node id="5232286933" visible="true" version="1" changeset="53833590" timestamp="2017-11-16T08:51:30Z" user="Akash Kumar burman" uid="2662203" lat="17.1880686" lon="78.6516364"/>
+ <node id="5232286934" visible="true" version="1" changeset="53833590" timestamp="2017-11-16T08:51:30Z" user="Akash Kumar burman" uid="2662203" lat="17.1879654" lon="78.6519454"/>
+ <node id="5232286935" visible="true" version="1" changeset="53833590" timestamp="2017-11-16T08:51:30Z" user="Akash Kumar burman" uid="2662203" lat="17.1874429" lon="78.6518964"/>
+ <node id="5232286936" visible="true" version="1" changeset="53833590" timestamp="2017-11-16T08:51:30Z" user="Akash Kumar burman" uid="2662203" lat="17.1878981" lon="78.6526016"/>
+ <node id="5232286937" visible="true" version="1" changeset="53833590" timestamp="2017-11-16T08:51:30Z" user="Akash Kumar burman" uid="2662203" lat="17.1873636" lon="78.6525485"/>
+ <node id="5232286938" visible="true" version="1" changeset="53833590" timestamp="2017-11-16T08:51:30Z" user="Akash Kumar burman" uid="2662203" lat="17.1885570" lon="78.6537196"/>
+ <node id="5232286957" visible="true" version="2" changeset="60177912" timestamp="2018-06-26T10:43:55Z" user="Janga Navya Reddy" uid="8403687" lat="17.1885370" lon="78.6540106"/>
+ <node id="5232286984" visible="true" version="1" changeset="53833590" timestamp="2017-11-16T08:51:31Z" user="Akash Kumar burman" uid="2662203" lat="17.1879294" lon="78.6522962"/>
+ <node id="5232286987" visible="true" version="1" changeset="53833590" timestamp="2017-11-16T08:51:31Z" user="Akash Kumar burman" uid="2662203" lat="17.1886024" lon="78.6534296"/>
+ <node id="5232287008" visible="true" version="2" changeset="60178336" timestamp="2018-06-26T10:57:52Z" user="Janga Navya Reddy" uid="8403687" lat="17.1898185" lon="78.6485567"/>
+ <node id="5232287011" visible="true" version="1" changeset="53833590" timestamp="2017-11-16T08:51:31Z" user="Akash Kumar burman" uid="2662203" lat="17.1894506" lon="78.6493113"/>
+ <node id="5232287012" visible="true" version="1" changeset="53833590" timestamp="2017-11-16T08:51:31Z" user="Akash Kumar burman" uid="2662203" lat="17.1893050" lon="78.6492893"/>
+ <node id="5232287013" visible="true" version="2" changeset="60181610" timestamp="2018-06-26T12:30:31Z" user="Janga Navya Reddy" uid="8403687" lat="17.1887294" lon="78.6492155"/>
+ <node id="5232342330" visible="true" version="1" changeset="53834946" timestamp="2017-11-16T09:25:03Z" user="Akash Kumar burman" uid="2662203" lat="17.1857630" lon="78.6508706"/>
+ <node id="5719960360" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:09Z" user="Janga Navya Reddy" uid="8403687" lat="17.1882386" lon="78.6521537"/>
+ <node id="5719960361" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:09Z" user="Janga Navya Reddy" uid="8403687" lat="17.1881038" lon="78.6521450"/>
+ <node id="5719960362" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:09Z" user="Janga Navya Reddy" uid="8403687" lat="17.1881126" lon="78.6519968"/>
+ <node id="5719960363" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:09Z" user="Janga Navya Reddy" uid="8403687" lat="17.1882473" lon="78.6520055"/>
+ <node id="5719960364" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:09Z" user="Janga Navya Reddy" uid="8403687" lat="17.1883973" lon="78.6521298"/>
+ <node id="5719960365" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:09Z" user="Janga Navya Reddy" uid="8403687" lat="17.1882770" lon="78.6521221"/>
+ <node id="5719960366" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:09Z" user="Janga Navya Reddy" uid="8403687" lat="17.1882855" lon="78.6519768"/>
+ <node id="5719960367" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:09Z" user="Janga Navya Reddy" uid="8403687" lat="17.1884058" lon="78.6519846"/>
+ <node id="5719960368" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:09Z" user="Janga Navya Reddy" uid="8403687" lat="17.1886421" lon="78.6520046"/>
+ <node id="5719960369" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:09Z" user="Janga Navya Reddy" uid="8403687" lat="17.1885729" lon="78.6519899"/>
+ <node id="5719960370" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:09Z" user="Janga Navya Reddy" uid="8403687" lat="17.1885894" lon="78.6519049"/>
+ <node id="5719960371" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:09Z" user="Janga Navya Reddy" uid="8403687" lat="17.1886586" lon="78.6519197"/>
+ <node id="5719960372" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:09Z" user="Janga Navya Reddy" uid="8403687" lat="17.1887247" lon="78.6520440"/>
+ <node id="5719960373" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:09Z" user="Janga Navya Reddy" uid="8403687" lat="17.1886466" lon="78.6520225"/>
+ <node id="5719960374" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:09Z" user="Janga Navya Reddy" uid="8403687" lat="17.1886727" lon="78.6519183"/>
+ <node id="5719960375" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:09Z" user="Janga Navya Reddy" uid="8403687" lat="17.1887509" lon="78.6519398"/>
+ <node id="5719960376" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:09Z" user="Janga Navya Reddy" uid="8403687" lat="17.1886582" lon="78.6518936"/>
+ <node id="5719960377" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:09Z" user="Janga Navya Reddy" uid="8403687" lat="17.1885852" lon="78.6518722"/>
+ <node id="5719960378" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:09Z" user="Janga Navya Reddy" uid="8403687" lat="17.1886163" lon="78.6517560"/>
+ <node id="5719960379" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:09Z" user="Janga Navya Reddy" uid="8403687" lat="17.1886894" lon="78.6517775"/>
+ <node id="5719960380" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:09Z" user="Janga Navya Reddy" uid="8403687" lat="17.1888741" lon="78.6517605"/>
+ <node id="5719960381" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:09Z" user="Janga Navya Reddy" uid="8403687" lat="17.1887165" lon="78.6517176"/>
+ <node id="5719960382" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:09Z" user="Janga Navya Reddy" uid="8403687" lat="17.1887483" lon="78.6515897"/>
+ <node id="5719960383" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:09Z" user="Janga Navya Reddy" uid="8403687" lat="17.1889059" lon="78.6516327"/>
+ <node id="5719960384" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:09Z" user="Janga Navya Reddy" uid="8403687" lat="17.1889989" lon="78.6516623"/>
+ <node id="5719960385" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:09Z" user="Janga Navya Reddy" uid="8403687" lat="17.1889246" lon="78.6516408"/>
+ <node id="5719960386" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:09Z" user="Janga Navya Reddy" uid="8403687" lat="17.1889571" lon="78.6515173"/>
+ <node id="5719960387" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:09Z" user="Janga Navya Reddy" uid="8403687" lat="17.1890314" lon="78.6515388"/>
+ <node id="5719960388" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:09Z" user="Janga Navya Reddy" uid="8403687" lat="17.1890323" lon="78.6512018"/>
+ <node id="5719960389" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:09Z" user="Janga Navya Reddy" uid="8403687" lat="17.1889978" lon="78.6513238"/>
+ <node id="5719960390" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:09Z" user="Janga Navya Reddy" uid="8403687" lat="17.1889213" lon="78.6513001"/>
+ <node id="5719960391" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:09Z" user="Janga Navya Reddy" uid="8403687" lat="17.1889558" lon="78.6511780"/>
+ <node id="5719960392" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:09Z" user="Janga Navya Reddy" uid="8403687" lat="17.1888744" lon="78.6511426"/>
+ <node id="5719960393" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:09Z" user="Janga Navya Reddy" uid="8403687" lat="17.1888373" lon="78.6512700"/>
+ <node id="5719960394" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:09Z" user="Janga Navya Reddy" uid="8403687" lat="17.1889020" lon="78.6512907"/>
+ <node id="5719960395" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:09Z" user="Janga Navya Reddy" uid="8403687" lat="17.1889392" lon="78.6511633"/>
+ <node id="5719960396" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:09Z" user="Janga Navya Reddy" uid="8403687" lat="17.1887588" lon="78.6513805"/>
+ <node id="5719960397" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:09Z" user="Janga Navya Reddy" uid="8403687" lat="17.1886725" lon="78.6513487"/>
+ <node id="5719960398" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:09Z" user="Janga Navya Reddy" uid="8403687" lat="17.1887122" lon="78.6512304"/>
+ <node id="5719960399" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:09Z" user="Janga Navya Reddy" uid="8403687" lat="17.1887985" lon="78.6512622"/>
+ <node id="5719960400" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:09Z" user="Janga Navya Reddy" uid="8403687" lat="17.1885764" lon="78.6513408"/>
+ <node id="5719960401" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:09Z" user="Janga Navya Reddy" uid="8403687" lat="17.1885113" lon="78.6513148"/>
+ <node id="5719960402" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:09Z" user="Janga Navya Reddy" uid="8403687" lat="17.1885563" lon="78.6511910"/>
+ <node id="5719960403" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:09Z" user="Janga Navya Reddy" uid="8403687" lat="17.1886215" lon="78.6512169"/>
+ <node id="5719960404" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:09Z" user="Janga Navya Reddy" uid="8403687" lat="17.1884716" lon="78.6511756"/>
+ <node id="5719960405" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:09Z" user="Janga Navya Reddy" uid="8403687" lat="17.1883969" lon="78.6511458"/>
+ <node id="5719960406" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:09Z" user="Janga Navya Reddy" uid="8403687" lat="17.1884390" lon="78.6510298"/>
+ <node id="5719960407" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:10Z" user="Janga Navya Reddy" uid="8403687" lat="17.1885138" lon="78.6510596"/>
+ <node id="5719960408" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:10Z" user="Janga Navya Reddy" uid="8403687" lat="17.1883200" lon="78.6511868"/>
+ <node id="5719960409" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:10Z" user="Janga Navya Reddy" uid="8403687" lat="17.1882558" lon="78.6511804"/>
+ <node id="5719960410" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:10Z" user="Janga Navya Reddy" uid="8403687" lat="17.1882694" lon="78.6510300"/>
+ <node id="5719960411" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:10Z" user="Janga Navya Reddy" uid="8403687" lat="17.1883336" lon="78.6510364"/>
+ <node id="5719960412" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:10Z" user="Janga Navya Reddy" uid="8403687" lat="17.1883540" lon="78.6512739"/>
+ <node id="5719960413" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:10Z" user="Janga Navya Reddy" uid="8403687" lat="17.1883229" lon="78.6512639"/>
+ <node id="5719960414" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:10Z" user="Janga Navya Reddy" uid="8403687" lat="17.1883585" lon="78.6511438"/>
+ <node id="5719960415" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:10Z" user="Janga Navya Reddy" uid="8403687" lat="17.1883896" lon="78.6511539"/>
+ <node id="5719960416" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:10Z" user="Janga Navya Reddy" uid="8403687" lat="17.1885765" lon="78.6516749"/>
+ <node id="5719960417" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:10Z" user="Janga Navya Reddy" uid="8403687" lat="17.1884959" lon="78.6516488"/>
+ <node id="5719960418" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:10Z" user="Janga Navya Reddy" uid="8403687" lat="17.1885306" lon="78.6515314"/>
+ <node id="5719960419" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:10Z" user="Janga Navya Reddy" uid="8403687" lat="17.1886112" lon="78.6515576"/>
+ <node id="5719960420" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:10Z" user="Janga Navya Reddy" uid="8403687" lat="17.1883746" lon="78.6514960"/>
+ <node id="5719960621" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:10Z" user="Janga Navya Reddy" uid="8403687" lat="17.1884425" lon="78.6515180"/>
+ <node id="5719960622" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:10Z" user="Janga Navya Reddy" uid="8403687" lat="17.1884818" lon="78.6513852"/>
+ <node id="5719960623" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:10Z" user="Janga Navya Reddy" uid="8403687" lat="17.1884139" lon="78.6513632"/>
+ <node id="5719960624" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:10Z" user="Janga Navya Reddy" uid="8403687" lat="17.1882920" lon="78.6514830"/>
+ <node id="5719960625" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:10Z" user="Janga Navya Reddy" uid="8403687" lat="17.1881782" lon="78.6514744"/>
+ <node id="5719960626" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:10Z" user="Janga Navya Reddy" uid="8403687" lat="17.1881847" lon="78.6513787"/>
+ <node id="5719960627" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:10Z" user="Janga Navya Reddy" uid="8403687" lat="17.1882986" lon="78.6513872"/>
+ <node id="5719960628" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:10Z" user="Janga Navya Reddy" uid="8403687" lat="17.1879910" lon="78.6512947"/>
+ <node id="5719960629" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:10Z" user="Janga Navya Reddy" uid="8403687" lat="17.1879194" lon="78.6512893"/>
+ <node id="5719960630" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:10Z" user="Janga Navya Reddy" uid="8403687" lat="17.1879297" lon="78.6511391"/>
+ <node id="5719960631" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:10Z" user="Janga Navya Reddy" uid="8403687" lat="17.1880013" lon="78.6511445"/>
+ <node id="5719960632" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:10Z" user="Janga Navya Reddy" uid="8403687" lat="17.1880132" lon="78.6511325"/>
+ <node id="5719960633" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:10Z" user="Janga Navya Reddy" uid="8403687" lat="17.1879411" lon="78.6511271"/>
+ <node id="5719960634" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:10Z" user="Janga Navya Reddy" uid="8403687" lat="17.1879485" lon="78.6510197"/>
+ <node id="5719960635" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:10Z" user="Janga Navya Reddy" uid="8403687" lat="17.1880206" lon="78.6510251"/>
+ <node id="5719960640" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:10Z" user="Janga Navya Reddy" uid="8403687" lat="17.1876726" lon="78.6519070"/>
+ <node id="5719960641" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:10Z" user="Janga Navya Reddy" uid="8403687" lat="17.1875914" lon="78.6519009"/>
+ <node id="5719960642" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:10Z" user="Janga Navya Reddy" uid="8403687" lat="17.1876011" lon="78.6517593"/>
+ <node id="5719960643" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:10Z" user="Janga Navya Reddy" uid="8403687" lat="17.1876823" lon="78.6517654"/>
+ <node id="5719960644" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:10Z" user="Janga Navya Reddy" uid="8403687" lat="17.1877871" lon="78.6519147"/>
+ <node id="5719960645" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:10Z" user="Janga Navya Reddy" uid="8403687" lat="17.1876926" lon="78.6519076"/>
+ <node id="5719960646" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:10Z" user="Janga Navya Reddy" uid="8403687" lat="17.1877018" lon="78.6517731"/>
+ <node id="5719960647" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:10Z" user="Janga Navya Reddy" uid="8403687" lat="17.1877964" lon="78.6517802"/>
+ <node id="5719960648" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:10Z" user="Janga Navya Reddy" uid="8403687" lat="17.1878790" lon="78.6516341"/>
+ <node id="5719960649" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:10Z" user="Janga Navya Reddy" uid="8403687" lat="17.1876465" lon="78.6516166"/>
+ <node id="5719960650" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:10Z" user="Janga Navya Reddy" uid="8403687" lat="17.1876548" lon="78.6514958"/>
+ <node id="5719960651" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:10Z" user="Janga Navya Reddy" uid="8403687" lat="17.1878873" lon="78.6515133"/>
+ <node id="5719960652" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:10Z" user="Janga Navya Reddy" uid="8403687" lat="17.1877413" lon="78.6511545"/>
+ <node id="5719960653" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:10Z" user="Janga Navya Reddy" uid="8403687" lat="17.1876093" lon="78.6511445"/>
+ <node id="5719960654" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:10Z" user="Janga Navya Reddy" uid="8403687" lat="17.1876182" lon="78.6510152"/>
+ <node id="5719960655" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:10Z" user="Janga Navya Reddy" uid="8403687" lat="17.1877502" lon="78.6510251"/>
+ <node id="5719960712" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:11Z" user="Janga Navya Reddy" uid="8403687" lat="17.1875317" lon="78.6509600"/>
+ <node id="5719960713" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:11Z" user="Janga Navya Reddy" uid="8403687" lat="17.1874709" lon="78.6509554"/>
+ <node id="5719960714" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:11Z" user="Janga Navya Reddy" uid="8403687" lat="17.1874807" lon="78.6508140"/>
+ <node id="5719960715" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:11Z" user="Janga Navya Reddy" uid="8403687" lat="17.1875414" lon="78.6508186"/>
+ <node id="5720035621" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:31Z" user="Janga Navya Reddy" uid="8403687" lat="17.1891359" lon="78.6514720"/>
+ <node id="5720035622" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:31Z" user="Janga Navya Reddy" uid="8403687" lat="17.1890468" lon="78.6514503"/>
+ <node id="5720035623" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:32Z" user="Janga Navya Reddy" uid="8403687" lat="17.1890705" lon="78.6513440"/>
+ <node id="5720035624" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:32Z" user="Janga Navya Reddy" uid="8403687" lat="17.1891596" lon="78.6513658"/>
+ <node id="5720035625" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:32Z" user="Janga Navya Reddy" uid="8403687" lat="17.1891202" lon="78.6513449"/>
+ <node id="5720035626" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:32Z" user="Janga Navya Reddy" uid="8403687" lat="17.1890904" lon="78.6513376"/>
+ <node id="5720035627" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:32Z" user="Janga Navya Reddy" uid="8403687" lat="17.1891156" lon="78.6512244"/>
+ <node id="5720035628" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:32Z" user="Janga Navya Reddy" uid="8403687" lat="17.1891455" lon="78.6512317"/>
+ <node id="5720035629" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:32Z" user="Janga Navya Reddy" uid="8403687" lat="17.1891713" lon="78.6513472"/>
+ <node id="5720035630" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:32Z" user="Janga Navya Reddy" uid="8403687" lat="17.1891378" lon="78.6513390"/>
+ <node id="5720035631" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:32Z" user="Janga Navya Reddy" uid="8403687" lat="17.1891593" lon="78.6512423"/>
+ <node id="5720035632" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:32Z" user="Janga Navya Reddy" uid="8403687" lat="17.1891929" lon="78.6512505"/>
+ <node id="5720035633" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:32Z" user="Janga Navya Reddy" uid="8403687" lat="17.1892368" lon="78.6514013"/>
+ <node id="5720035634" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:32Z" user="Janga Navya Reddy" uid="8403687" lat="17.1891737" lon="78.6513859"/>
+ <node id="5720035635" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:32Z" user="Janga Navya Reddy" uid="8403687" lat="17.1891989" lon="78.6512726"/>
+ <node id="5720035636" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:32Z" user="Janga Navya Reddy" uid="8403687" lat="17.1892621" lon="78.6512880"/>
+ <node id="5720035637" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:32Z" user="Janga Navya Reddy" uid="8403687" lat="17.1893181" lon="78.6514075"/>
+ <node id="5720035638" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:32Z" user="Janga Navya Reddy" uid="8403687" lat="17.1892518" lon="78.6513913"/>
+ <node id="5720035639" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:32Z" user="Janga Navya Reddy" uid="8403687" lat="17.1892790" lon="78.6512691"/>
+ <node id="5720035640" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:32Z" user="Janga Navya Reddy" uid="8403687" lat="17.1893453" lon="78.6512853"/>
+ <node id="5720035641" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:32Z" user="Janga Navya Reddy" uid="8403687" lat="17.1893583" lon="78.6512155"/>
+ <node id="5720035642" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:32Z" user="Janga Navya Reddy" uid="8403687" lat="17.1892928" lon="78.6511995"/>
+ <node id="5720035643" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:32Z" user="Janga Navya Reddy" uid="8403687" lat="17.1893170" lon="78.6510910"/>
+ <node id="5720035644" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:32Z" user="Janga Navya Reddy" uid="8403687" lat="17.1893825" lon="78.6511070"/>
+ <node id="5720035645" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:32Z" user="Janga Navya Reddy" uid="8403687" lat="17.1893059" lon="78.6510829"/>
+ <node id="5720035646" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:32Z" user="Janga Navya Reddy" uid="8403687" lat="17.1892287" lon="78.6510640"/>
+ <node id="5720035647" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:32Z" user="Janga Navya Reddy" uid="8403687" lat="17.1892592" lon="78.6509272"/>
+ <node id="5720035648" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:32Z" user="Janga Navya Reddy" uid="8403687" lat="17.1893364" lon="78.6509460"/>
+ <node id="5720035685" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:33Z" user="Janga Navya Reddy" uid="8403687" lat="17.1893992" lon="78.6495509"/>
+ <node id="5720035686" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:33Z" user="Janga Navya Reddy" uid="8403687" lat="17.1892801" lon="78.6495281"/>
+ <node id="5720035687" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:33Z" user="Janga Navya Reddy" uid="8403687" lat="17.1892941" lon="78.6494480"/>
+ <node id="5720035688" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:33Z" user="Janga Navya Reddy" uid="8403687" lat="17.1894132" lon="78.6494708"/>
+ <node id="5720035689" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:33Z" user="Janga Navya Reddy" uid="8403687" lat="17.1893785" lon="78.6496434"/>
+ <node id="5720035690" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:33Z" user="Janga Navya Reddy" uid="8403687" lat="17.1892594" lon="78.6496232"/>
+ <node id="5720035691" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:33Z" user="Janga Navya Reddy" uid="8403687" lat="17.1892723" lon="78.6495392"/>
+ <node id="5720035692" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:33Z" user="Janga Navya Reddy" uid="8403687" lat="17.1893915" lon="78.6495593"/>
+ <node id="5720035693" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:33Z" user="Janga Navya Reddy" uid="8403687" lat="17.1892876" lon="78.6500351"/>
+ <node id="5720035694" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:33Z" user="Janga Navya Reddy" uid="8403687" lat="17.1891646" lon="78.6500083"/>
+ <node id="5720035695" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:33Z" user="Janga Navya Reddy" uid="8403687" lat="17.1891877" lon="78.6498919"/>
+ <node id="5720035696" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:33Z" user="Janga Navya Reddy" uid="8403687" lat="17.1893107" lon="78.6499187"/>
+ <node id="5720035697" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:33Z" user="Janga Navya Reddy" uid="8403687" lat="17.1891109" lon="78.6502137"/>
+ <node id="5720035698" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:33Z" user="Janga Navya Reddy" uid="8403687" lat="17.1890879" lon="78.6503330"/>
+ <node id="5720035699" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:33Z" user="Janga Navya Reddy" uid="8403687" lat="17.1891455" lon="78.6503452"/>
+ <node id="5720035700" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:33Z" user="Janga Navya Reddy" uid="8403687" lat="17.1891685" lon="78.6502258"/>
+ <node id="5720035701" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:33Z" user="Janga Navya Reddy" uid="8403687" lat="17.1892183" lon="78.6503554"/>
+ <node id="5720035702" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:33Z" user="Janga Navya Reddy" uid="8403687" lat="17.1891596" lon="78.6503425"/>
+ <node id="5720035703" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:33Z" user="Janga Navya Reddy" uid="8403687" lat="17.1891815" lon="78.6502331"/>
+ <node id="5720035704" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:33Z" user="Janga Navya Reddy" uid="8403687" lat="17.1892403" lon="78.6502460"/>
+ <node id="5720035705" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:33Z" user="Janga Navya Reddy" uid="8403687" lat="17.1890886" lon="78.6510224"/>
+ <node id="5720035706" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:33Z" user="Janga Navya Reddy" uid="8403687" lat="17.1890097" lon="78.6510050"/>
+ <node id="5720035707" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:33Z" user="Janga Navya Reddy" uid="8403687" lat="17.1890357" lon="78.6508750"/>
+ <node id="5720035708" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:33Z" user="Janga Navya Reddy" uid="8403687" lat="17.1891147" lon="78.6508924"/>
+ <node id="5720035709" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:33Z" user="Janga Navya Reddy" uid="8403687" lat="17.1891828" lon="78.6505278"/>
+ <node id="5720035710" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:33Z" user="Janga Navya Reddy" uid="8403687" lat="17.1890660" lon="78.6505021"/>
+ <node id="5720035711" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:33Z" user="Janga Navya Reddy" uid="8403687" lat="17.1890889" lon="78.6503879"/>
+ <node id="5720035712" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:33Z" user="Janga Navya Reddy" uid="8403687" lat="17.1892057" lon="78.6504136"/>
+ <node id="5720035713" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:33Z" user="Janga Navya Reddy" uid="8403687" lat="17.1891388" lon="78.6507672"/>
+ <node id="5720035714" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:33Z" user="Janga Navya Reddy" uid="8403687" lat="17.1890007" lon="78.6507368"/>
+ <node id="5720035715" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:33Z" user="Janga Navya Reddy" uid="8403687" lat="17.1890138" lon="78.6506716"/>
+ <node id="5720035716" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:33Z" user="Janga Navya Reddy" uid="8403687" lat="17.1891519" lon="78.6507019"/>
+ <node id="5720035717" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:33Z" user="Janga Navya Reddy" uid="8403687" lat="17.1887009" lon="78.6509257"/>
+ <node id="5720035718" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:33Z" user="Janga Navya Reddy" uid="8403687" lat="17.1886471" lon="78.6509138"/>
+ <node id="5720035719" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:33Z" user="Janga Navya Reddy" uid="8403687" lat="17.1886753" lon="78.6507733"/>
+ <node id="5720035720" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:33Z" user="Janga Navya Reddy" uid="8403687" lat="17.1887291" lon="78.6507851"/>
+ <node id="5720035721" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:33Z" user="Janga Navya Reddy" uid="8403687" lat="17.1886436" lon="78.6507357"/>
+ <node id="5720035722" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:33Z" user="Janga Navya Reddy" uid="8403687" lat="17.1885510" lon="78.6507153"/>
+ <node id="5720035723" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:33Z" user="Janga Navya Reddy" uid="8403687" lat="17.1885685" lon="78.6506279"/>
+ <node id="5720035724" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:33Z" user="Janga Navya Reddy" uid="8403687" lat="17.1886612" lon="78.6506483"/>
+ <node id="5720035725" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:33Z" user="Janga Navya Reddy" uid="8403687" lat="17.1890609" lon="78.6502321"/>
+ <node id="5720035726" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:33Z" user="Janga Navya Reddy" uid="8403687" lat="17.1889289" lon="78.6502030"/>
+ <node id="5720035727" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:33Z" user="Janga Navya Reddy" uid="8403687" lat="17.1889520" lon="78.6500882"/>
+ <node id="5720035728" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:33Z" user="Janga Navya Reddy" uid="8403687" lat="17.1890840" lon="78.6501172"/>
+ <node id="5720035729" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:33Z" user="Janga Navya Reddy" uid="8403687" lat="17.1891378" lon="78.6498892"/>
+ <node id="5720035730" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:33Z" user="Janga Navya Reddy" uid="8403687" lat="17.1890161" lon="78.6498624"/>
+ <node id="5720035731" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:33Z" user="Janga Navya Reddy" uid="8403687" lat="17.1890378" lon="78.6497539"/>
+ <node id="5720035732" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:33Z" user="Janga Navya Reddy" uid="8403687" lat="17.1891596" lon="78.6497806"/>
+ <node id="5720035733" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:33Z" user="Janga Navya Reddy" uid="8403687" lat="17.1889306" lon="78.6497162"/>
+ <node id="5720035734" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:33Z" user="Janga Navya Reddy" uid="8403687" lat="17.1888393" lon="78.6496961"/>
+ <node id="5720035735" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:33Z" user="Janga Navya Reddy" uid="8403687" lat="17.1888594" lon="78.6495956"/>
+ <node id="5720035736" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:33Z" user="Janga Navya Reddy" uid="8403687" lat="17.1889507" lon="78.6496156"/>
+ <node id="5720035737" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:33Z" user="Janga Navya Reddy" uid="8403687" lat="17.1887773" lon="78.6495027"/>
+ <node id="5720035738" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:33Z" user="Janga Navya Reddy" uid="8403687" lat="17.1886810" lon="78.6494815"/>
+ <node id="5720035739" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:34Z" user="Janga Navya Reddy" uid="8403687" lat="17.1887045" lon="78.6493645"/>
+ <node id="5720035740" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:34Z" user="Janga Navya Reddy" uid="8403687" lat="17.1888008" lon="78.6493856"/>
+ <node id="5720035741" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:34Z" user="Janga Navya Reddy" uid="8403687" lat="17.1888076" lon="78.6493673"/>
+ <node id="5720035742" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:34Z" user="Janga Navya Reddy" uid="8403687" lat="17.1887111" lon="78.6493461"/>
+ <node id="5720035743" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:34Z" user="Janga Navya Reddy" uid="8403687" lat="17.1887313" lon="78.6492458"/>
+ <node id="5720035744" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:34Z" user="Janga Navya Reddy" uid="8403687" lat="17.1888277" lon="78.6492670"/>
+ <node id="5720035745" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:34Z" user="Janga Navya Reddy" uid="8403687" lat="17.1888798" lon="78.6495261"/>
+ <node id="5720035746" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:34Z" user="Janga Navya Reddy" uid="8403687" lat="17.1887867" lon="78.6495057"/>
+ <node id="5720035747" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:34Z" user="Janga Navya Reddy" uid="8403687" lat="17.1888102" lon="78.6493887"/>
+ <node id="5720035748" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:34Z" user="Janga Navya Reddy" uid="8403687" lat="17.1889033" lon="78.6494091"/>
+ <node id="5720035749" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:34Z" user="Janga Navya Reddy" uid="8403687" lat="17.1889132" lon="78.6493979"/>
+ <node id="5720035750" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:34Z" user="Janga Navya Reddy" uid="8403687" lat="17.1888239" lon="78.6493783"/>
+ <node id="5720035751" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:34Z" user="Janga Navya Reddy" uid="8403687" lat="17.1888448" lon="78.6492742"/>
+ <node id="5720035752" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:34Z" user="Janga Navya Reddy" uid="8403687" lat="17.1889341" lon="78.6492938"/>
+ <node id="5720035753" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:34Z" user="Janga Navya Reddy" uid="8403687" lat="17.1890069" lon="78.6495547"/>
+ <node id="5720035754" visible="true" version="2" changeset="60235096" timestamp="2018-06-28T05:15:42Z" user="Janga Navya Reddy" uid="8403687" lat="17.1888951" lon="78.6495301"/>
+ <node id="5720035755" visible="true" version="2" changeset="60235096" timestamp="2018-06-28T05:15:42Z" user="Janga Navya Reddy" uid="8403687" lat="17.1889171" lon="78.6494207"/>
+ <node id="5720035756" visible="true" version="2" changeset="60235096" timestamp="2018-06-28T05:15:42Z" user="Janga Navya Reddy" uid="8403687" lat="17.1890289" lon="78.6494453"/>
+ <node id="5720035757" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:34Z" user="Janga Navya Reddy" uid="8403687" lat="17.1890426" lon="78.6494255"/>
+ <node id="5720035758" visible="true" version="2" changeset="60235096" timestamp="2018-06-28T05:15:42Z" user="Janga Navya Reddy" uid="8403687" lat="17.1889886" lon="78.6494136"/>
+ <node id="5720035759" visible="true" version="2" changeset="60235096" timestamp="2018-06-28T05:15:42Z" user="Janga Navya Reddy" uid="8403687" lat="17.1890108" lon="78.6493034"/>
+ <node id="5720035760" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:34Z" user="Janga Navya Reddy" uid="8403687" lat="17.1890648" lon="78.6493152"/>
+ <node id="5720035761" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:34Z" user="Janga Navya Reddy" uid="8403687" lat="17.1890562" lon="78.6495640"/>
+ <node id="5720035762" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:34Z" user="Janga Navya Reddy" uid="8403687" lat="17.1890225" lon="78.6495566"/>
+ <node id="5720035763" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:34Z" user="Janga Navya Reddy" uid="8403687" lat="17.1890439" lon="78.6494500"/>
+ <node id="5720035764" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:34Z" user="Janga Navya Reddy" uid="8403687" lat="17.1890776" lon="78.6494574"/>
+ <node id="5720035765" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:34Z" user="Janga Navya Reddy" uid="8403687" lat="17.1890826" lon="78.6494442"/>
+ <node id="5720035766" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:34Z" user="Janga Navya Reddy" uid="8403687" lat="17.1890571" lon="78.6494386"/>
+ <node id="5720035767" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:34Z" user="Janga Navya Reddy" uid="8403687" lat="17.1890802" lon="78.6493230"/>
+ <node id="5720035768" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:34Z" user="Janga Navya Reddy" uid="8403687" lat="17.1891057" lon="78.6493286"/>
+ <node id="5720035769" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:34Z" user="Janga Navya Reddy" uid="8403687" lat="17.1892044" lon="78.6495335"/>
+ <node id="5720035770" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:34Z" user="Janga Navya Reddy" uid="8403687" lat="17.1890840" lon="78.6495070"/>
+ <node id="5720035771" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:34Z" user="Janga Navya Reddy" uid="8403687" lat="17.1891006" lon="78.6494242"/>
+ <node id="5720035772" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:34Z" user="Janga Navya Reddy" uid="8403687" lat="17.1892211" lon="78.6494507"/>
+ <node id="5720035773" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:34Z" user="Janga Navya Reddy" uid="8403687" lat="17.1891198" lon="78.6493062"/>
+ <node id="5720035774" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:34Z" user="Janga Navya Reddy" uid="8403687" lat="17.1890981" lon="78.6494146"/>
+ <node id="5720035775" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:34Z" user="Janga Navya Reddy" uid="8403687" lat="17.1892411" lon="78.6494460"/>
+ <node id="5720035776" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:34Z" user="Janga Navya Reddy" uid="8403687" lat="17.1892628" lon="78.6493376"/>
+ <node id="5720035777" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:34Z" user="Janga Navya Reddy" uid="8403687" lat="17.1875286" lon="78.6495991"/>
+ <node id="5720035778" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:34Z" user="Janga Navya Reddy" uid="8403687" lat="17.1875837" lon="78.6497229"/>
+ <node id="5720035779" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:34Z" user="Janga Navya Reddy" uid="8403687" lat="17.1876708" lon="78.6496805"/>
+ <node id="5720035780" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:34Z" user="Janga Navya Reddy" uid="8403687" lat="17.1876157" lon="78.6495566"/>
+ <node id="5720035781" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:34Z" user="Janga Navya Reddy" uid="8403687" lat="17.1875904" lon="78.6497409"/>
+ <node id="5720035782" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:34Z" user="Janga Navya Reddy" uid="8403687" lat="17.1876349" lon="78.6498409"/>
+ <node id="5720035783" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:34Z" user="Janga Navya Reddy" uid="8403687" lat="17.1877268" lon="78.6497962"/>
+ <node id="5720035784" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:34Z" user="Janga Navya Reddy" uid="8403687" lat="17.1876823" lon="78.6496961"/>
+ <node id="5720035785" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:34Z" user="Janga Navya Reddy" uid="8403687" lat="17.1877818" lon="78.6496325"/>
+ <node id="5720035786" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:34Z" user="Janga Navya Reddy" uid="8403687" lat="17.1878309" lon="78.6497430"/>
+ <node id="5720035787" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:34Z" user="Janga Navya Reddy" uid="8403687" lat="17.1879096" lon="78.6497047"/>
+ <node id="5720035788" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:34Z" user="Janga Navya Reddy" uid="8403687" lat="17.1878604" lon="78.6495942"/>
+ <node id="5720035805" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:35Z" user="Janga Navya Reddy" uid="8403687" lat="17.1874133" lon="78.6492361"/>
+ <node id="5720035806" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:35Z" user="Janga Navya Reddy" uid="8403687" lat="17.1874735" lon="78.6493716"/>
+ <node id="5720035807" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:35Z" user="Janga Navya Reddy" uid="8403687" lat="17.1875478" lon="78.6493353"/>
+ <node id="5720035808" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:35Z" user="Janga Navya Reddy" uid="8403687" lat="17.1874876" lon="78.6491999"/>
+ <node id="5720035809" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:35Z" user="Janga Navya Reddy" uid="8403687" lat="17.1874924" lon="78.6491836"/>
+ <node id="5720035810" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:35Z" user="Janga Navya Reddy" uid="8403687" lat="17.1875593" lon="78.6493340"/>
+ <node id="5720035811" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:35Z" user="Janga Navya Reddy" uid="8403687" lat="17.1876057" lon="78.6493114"/>
+ <node id="5720035812" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:35Z" user="Janga Navya Reddy" uid="8403687" lat="17.1875388" lon="78.6491610"/>
+ <node id="5720035813" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:35Z" user="Janga Navya Reddy" uid="8403687" lat="17.1875564" lon="78.6493493"/>
+ <node id="5720035814" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:35Z" user="Janga Navya Reddy" uid="8403687" lat="17.1876080" lon="78.6494654"/>
+ <node id="5720035815" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:35Z" user="Janga Navya Reddy" uid="8403687" lat="17.1876725" lon="78.6494340"/>
+ <node id="5720035816" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:35Z" user="Janga Navya Reddy" uid="8403687" lat="17.1876208" lon="78.6493179"/>
+ <node id="5720035817" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:35Z" user="Janga Navya Reddy" uid="8403687" lat="17.1876789" lon="78.6491239"/>
+ <node id="5720035818" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:35Z" user="Janga Navya Reddy" uid="8403687" lat="17.1877169" lon="78.6492093"/>
+ <node id="5720035819" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:35Z" user="Janga Navya Reddy" uid="8403687" lat="17.1877536" lon="78.6491914"/>
+ <node id="5720035820" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:35Z" user="Janga Navya Reddy" uid="8403687" lat="17.1877156" lon="78.6491060"/>
+ <node id="5720035821" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:35Z" user="Janga Navya Reddy" uid="8403687" lat="17.1876843" lon="78.6492957"/>
+ <node id="5720035822" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:35Z" user="Janga Navya Reddy" uid="8403687" lat="17.1877336" lon="78.6494064"/>
+ <node id="5720035823" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:35Z" user="Janga Navya Reddy" uid="8403687" lat="17.1878200" lon="78.6493643"/>
+ <node id="5720035824" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:35Z" user="Janga Navya Reddy" uid="8403687" lat="17.1877707" lon="78.6492535"/>
+ <node id="5720035825" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:35Z" user="Janga Navya Reddy" uid="8403687" lat="17.1876041" lon="78.6491209"/>
+ <node id="5720035826" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:35Z" user="Janga Navya Reddy" uid="8403687" lat="17.1876721" lon="78.6492737"/>
+ <node id="5720035827" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:35Z" user="Janga Navya Reddy" uid="8403687" lat="17.1877246" lon="78.6492481"/>
+ <node id="5720035828" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:35Z" user="Janga Navya Reddy" uid="8403687" lat="17.1876567" lon="78.6490953"/>
+ <node id="5720035829" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:35Z" user="Janga Navya Reddy" uid="8403687" lat="17.1878763" lon="78.6492003"/>
+ <node id="5720035830" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:35Z" user="Janga Navya Reddy" uid="8403687" lat="17.1879232" lon="78.6493058"/>
+ <node id="5720035831" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:35Z" user="Janga Navya Reddy" uid="8403687" lat="17.1879983" lon="78.6492692"/>
+ <node id="5720035832" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:35Z" user="Janga Navya Reddy" uid="8403687" lat="17.1879514" lon="78.6491637"/>
+ <node id="5720035833" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:35Z" user="Janga Navya Reddy" uid="8403687" lat="17.1879676" lon="78.6491597"/>
+ <node id="5720035834" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:35Z" user="Janga Navya Reddy" uid="8403687" lat="17.1880129" lon="78.6492616"/>
+ <node id="5720035835" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:35Z" user="Janga Navya Reddy" uid="8403687" lat="17.1881120" lon="78.6492133"/>
+ <node id="5720035836" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:35Z" user="Janga Navya Reddy" uid="8403687" lat="17.1880667" lon="78.6491114"/>
+ <node id="5720035837" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:35Z" user="Janga Navya Reddy" uid="8403687" lat="17.1879753" lon="78.6489512"/>
+ <node id="5720035838" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:35Z" user="Janga Navya Reddy" uid="8403687" lat="17.1880423" lon="78.6491020"/>
+ <node id="5720035839" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:35Z" user="Janga Navya Reddy" uid="8403687" lat="17.1880825" lon="78.6490824"/>
+ <node id="5720035840" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:35Z" user="Janga Navya Reddy" uid="8403687" lat="17.1880154" lon="78.6489317"/>
+ <node id="5720035841" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:35Z" user="Janga Navya Reddy" uid="8403687" lat="17.1880379" lon="78.6489414"/>
+ <node id="5720035842" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:35Z" user="Janga Navya Reddy" uid="8403687" lat="17.1881051" lon="78.6490926"/>
+ <node id="5720035843" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:35Z" user="Janga Navya Reddy" uid="8403687" lat="17.1881608" lon="78.6490655"/>
+ <node id="5720035844" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:35Z" user="Janga Navya Reddy" uid="8403687" lat="17.1880936" lon="78.6489142"/>
+ <node id="5720035845" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:35Z" user="Janga Navya Reddy" uid="8403687" lat="17.1881831" lon="78.6490645"/>
+ <node id="5720035846" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:35Z" user="Janga Navya Reddy" uid="8403687" lat="17.1882320" lon="78.6491744"/>
+ <node id="5720035847" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:35Z" user="Janga Navya Reddy" uid="8403687" lat="17.1883091" lon="78.6491369"/>
+ <node id="5720035848" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:35Z" user="Janga Navya Reddy" uid="8403687" lat="17.1882602" lon="78.6490269"/>
+ <node id="5720035849" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:35Z" user="Janga Navya Reddy" uid="8403687" lat="17.1881076" lon="78.6488830"/>
+ <node id="5720035850" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:35Z" user="Janga Navya Reddy" uid="8403687" lat="17.1881782" lon="78.6490417"/>
+ <node id="5720035851" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:35Z" user="Janga Navya Reddy" uid="8403687" lat="17.1882654" lon="78.6489992"/>
+ <node id="5720035852" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:35Z" user="Janga Navya Reddy" uid="8403687" lat="17.1881948" lon="78.6488405"/>
+ <node id="5720035853" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:35Z" user="Janga Navya Reddy" uid="8403687" lat="17.1882667" lon="78.6490120"/>
+ <node id="5720035854" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:35Z" user="Janga Navya Reddy" uid="8403687" lat="17.1883217" lon="78.6491355"/>
+ <node id="5720035855" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:35Z" user="Janga Navya Reddy" uid="8403687" lat="17.1883984" lon="78.6490981"/>
+ <node id="5720035856" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:35Z" user="Janga Navya Reddy" uid="8403687" lat="17.1883434" lon="78.6489746"/>
+ <node id="5720035857" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:35Z" user="Janga Navya Reddy" uid="8403687" lat="17.1882077" lon="78.6488522"/>
+ <node id="5720035858" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:35Z" user="Janga Navya Reddy" uid="8403687" lat="17.1882676" lon="78.6489868"/>
+ <node id="5720035859" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:35Z" user="Janga Navya Reddy" uid="8403687" lat="17.1883521" lon="78.6489457"/>
+ <node id="5720035860" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:36Z" user="Janga Navya Reddy" uid="8403687" lat="17.1882922" lon="78.6488110"/>
+ <node id="5720035861" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:36Z" user="Janga Navya Reddy" uid="8403687" lat="17.1883789" lon="78.6489819"/>
+ <node id="5720035862" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:36Z" user="Janga Navya Reddy" uid="8403687" lat="17.1884216" lon="78.6490779"/>
+ <node id="5720035863" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:36Z" user="Janga Navya Reddy" uid="8403687" lat="17.1885027" lon="78.6490383"/>
+ <node id="5720035864" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:36Z" user="Janga Navya Reddy" uid="8403687" lat="17.1884600" lon="78.6489424"/>
+ <node id="5720035865" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:36Z" user="Janga Navya Reddy" uid="8403687" lat="17.1883127" lon="78.6488175"/>
+ <node id="5720035866" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:36Z" user="Janga Navya Reddy" uid="8403687" lat="17.1883755" lon="78.6489585"/>
+ <node id="5720035867" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:36Z" user="Janga Navya Reddy" uid="8403687" lat="17.1884548" lon="78.6489198"/>
+ <node id="5720035868" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:36Z" user="Janga Navya Reddy" uid="8403687" lat="17.1883921" lon="78.6487788"/>
+ <node id="5720035869" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:36Z" user="Janga Navya Reddy" uid="8403687" lat="17.1884626" lon="78.6489172"/>
+ <node id="5720035870" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:36Z" user="Janga Navya Reddy" uid="8403687" lat="17.1885126" lon="78.6490296"/>
+ <node id="5720035871" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:36Z" user="Janga Navya Reddy" uid="8403687" lat="17.1885433" lon="78.6490146"/>
+ <node id="5720035872" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:36Z" user="Janga Navya Reddy" uid="8403687" lat="17.1884933" lon="78.6489022"/>
+ <node id="5720035873" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:36Z" user="Janga Navya Reddy" uid="8403687" lat="17.1884053" lon="78.6487695"/>
+ <node id="5720035874" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:36Z" user="Janga Navya Reddy" uid="8403687" lat="17.1884613" lon="78.6488955"/>
+ <node id="5720035875" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:36Z" user="Janga Navya Reddy" uid="8403687" lat="17.1885276" lon="78.6488632"/>
+ <node id="5720035876" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:36Z" user="Janga Navya Reddy" uid="8403687" lat="17.1884716" lon="78.6487372"/>
+ <node id="5720035877" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:36Z" user="Janga Navya Reddy" uid="8403687" lat="17.1885067" lon="78.6489018"/>
+ <node id="5720035878" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:36Z" user="Janga Navya Reddy" uid="8403687" lat="17.1885600" lon="78.6490215"/>
+ <node id="5720035879" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:36Z" user="Janga Navya Reddy" uid="8403687" lat="17.1886170" lon="78.6489937"/>
+ <node id="5720035880" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:36Z" user="Janga Navya Reddy" uid="8403687" lat="17.1885638" lon="78.6488740"/>
+ <node id="5720035881" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:36Z" user="Janga Navya Reddy" uid="8403687" lat="17.1884853" lon="78.6487169"/>
+ <node id="5720035882" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:36Z" user="Janga Navya Reddy" uid="8403687" lat="17.1885510" lon="78.6488646"/>
+ <node id="5720035883" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:36Z" user="Janga Navya Reddy" uid="8403687" lat="17.1886167" lon="78.6488326"/>
+ <node id="5720035884" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:36Z" user="Janga Navya Reddy" uid="8403687" lat="17.1885510" lon="78.6486849"/>
+ <node id="5720035885" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:36Z" user="Janga Navya Reddy" uid="8403687" lat="17.1885636" lon="78.6486792"/>
+ <node id="5720035886" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:36Z" user="Janga Navya Reddy" uid="8403687" lat="17.1886330" lon="78.6488351"/>
+ <node id="5720035887" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:36Z" user="Janga Navya Reddy" uid="8403687" lat="17.1886818" lon="78.6488113"/>
+ <node id="5720035888" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:36Z" user="Janga Navya Reddy" uid="8403687" lat="17.1886125" lon="78.6486554"/>
+ <node id="5720035897" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:36Z" user="Janga Navya Reddy" uid="8403687" lat="17.1876404" lon="78.6498959"/>
+ <node id="5720035898" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:36Z" user="Janga Navya Reddy" uid="8403687" lat="17.1876710" lon="78.6499824"/>
+ <node id="5720035899" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:36Z" user="Janga Navya Reddy" uid="8403687" lat="17.1878482" lon="78.6499138"/>
+ <node id="5720035900" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:36Z" user="Janga Navya Reddy" uid="8403687" lat="17.1878176" lon="78.6498273"/>
+ <node id="5720035909" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:36Z" user="Janga Navya Reddy" uid="8403687" lat="17.1874624" lon="78.6497601"/>
+ <node id="5720035910" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:36Z" user="Janga Navya Reddy" uid="8403687" lat="17.1874991" lon="78.6498678"/>
+ <node id="5720035911" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:36Z" user="Janga Navya Reddy" uid="8403687" lat="17.1875448" lon="78.6498507"/>
+ <node id="5720035912" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:36Z" user="Janga Navya Reddy" uid="8403687" lat="17.1875081" lon="78.6497430"/>
+ <node id="5720035913" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:37Z" user="Janga Navya Reddy" uid="8403687" lat="17.1875218" lon="78.6497415"/>
+ <node id="5720035914" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:37Z" user="Janga Navya Reddy" uid="8403687" lat="17.1875580" lon="78.6498477"/>
+ <node id="5720035915" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:37Z" user="Janga Navya Reddy" uid="8403687" lat="17.1875968" lon="78.6498332"/>
+ <node id="5720035916" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:37Z" user="Janga Navya Reddy" uid="8403687" lat="17.1875606" lon="78.6497270"/>
+ <node id="5720035917" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:37Z" user="Janga Navya Reddy" uid="8403687" lat="17.1874331" lon="78.6496344"/>
+ <node id="5720035918" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:37Z" user="Janga Navya Reddy" uid="8403687" lat="17.1874683" lon="78.6497377"/>
+ <node id="5720035919" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:37Z" user="Janga Navya Reddy" uid="8403687" lat="17.1875428" lon="78.6497099"/>
+ <node id="5720035920" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:37Z" user="Janga Navya Reddy" uid="8403687" lat="17.1875075" lon="78.6496065"/>
+ <node id="5720035921" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:37Z" user="Janga Navya Reddy" uid="8403687" lat="17.1876252" lon="78.6495384"/>
+ <node id="5720035922" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:37Z" user="Janga Navya Reddy" uid="8403687" lat="17.1876810" lon="78.6496639"/>
+ <node id="5720035923" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:37Z" user="Janga Navya Reddy" uid="8403687" lat="17.1877702" lon="78.6496205"/>
+ <node id="5720035924" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:37Z" user="Janga Navya Reddy" uid="8403687" lat="17.1877144" lon="78.6494949"/>
+ <node id="5720035925" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:37Z" user="Janga Navya Reddy" uid="8403687" lat="17.1877192" lon="78.6494672"/>
+ <node id="5720035926" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:37Z" user="Janga Navya Reddy" uid="8403687" lat="17.1877838" lon="78.6496124"/>
+ <node id="5720035927" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:37Z" user="Janga Navya Reddy" uid="8403687" lat="17.1878644" lon="78.6495732"/>
+ <node id="5720035928" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:37Z" user="Janga Navya Reddy" uid="8403687" lat="17.1877998" lon="78.6494280"/>
+ <node id="5720035929" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:37Z" user="Janga Navya Reddy" uid="8403687" lat="17.1878580" lon="78.6495473"/>
+ <node id="5720035930" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:37Z" user="Janga Navya Reddy" uid="8403687" lat="17.1879206" lon="78.6496881"/>
+ <node id="5720035931" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:37Z" user="Janga Navya Reddy" uid="8403687" lat="17.1880088" lon="78.6496451"/>
+ <node id="5720035932" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:37Z" user="Janga Navya Reddy" uid="8403687" lat="17.1879463" lon="78.6495043"/>
+ <node id="5720035933" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:37Z" user="Janga Navya Reddy" uid="8403687" lat="17.1879773" lon="78.6495213"/>
+ <node id="5720035934" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:37Z" user="Janga Navya Reddy" uid="8403687" lat="17.1880359" lon="78.6496532"/>
+ <node id="5720035935" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:37Z" user="Janga Navya Reddy" uid="8403687" lat="17.1881305" lon="78.6496071"/>
+ <node id="5720035936" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:37Z" user="Janga Navya Reddy" uid="8403687" lat="17.1880719" lon="78.6494752"/>
+ <node id="5720035937" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:37Z" user="Janga Navya Reddy" uid="8403687" lat="17.1880219" lon="78.6493435"/>
+ <node id="5720035938" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:37Z" user="Janga Navya Reddy" uid="8403687" lat="17.1880744" lon="78.6494614"/>
+ <node id="5720035939" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:37Z" user="Janga Navya Reddy" uid="8403687" lat="17.1881627" lon="78.6494184"/>
+ <node id="5720035940" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:37Z" user="Janga Navya Reddy" uid="8403687" lat="17.1881103" lon="78.6493005"/>
+ <node id="5720035941" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:37Z" user="Janga Navya Reddy" uid="8403687" lat="17.1881302" lon="78.6492956"/>
+ <node id="5720035942" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:37Z" user="Janga Navya Reddy" uid="8403687" lat="17.1881884" lon="78.6494265"/>
+ <node id="5720035943" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:37Z" user="Janga Navya Reddy" uid="8403687" lat="17.1882774" lon="78.6493832"/>
+ <node id="5720035944" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:37Z" user="Janga Navya Reddy" uid="8403687" lat="17.1882192" lon="78.6492522"/>
+ <node id="5720035945" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:37Z" user="Janga Navya Reddy" uid="8403687" lat="17.1883059" lon="78.6493475"/>
+ <node id="5720035946" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:37Z" user="Janga Navya Reddy" uid="8403687" lat="17.1883575" lon="78.6494842"/>
+ <node id="5720035947" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:37Z" user="Janga Navya Reddy" uid="8403687" lat="17.1884258" lon="78.6494560"/>
+ <node id="5720035948" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:37Z" user="Janga Navya Reddy" uid="8403687" lat="17.1883742" lon="78.6493193"/>
+ <node id="5720035949" visible="true" version="2" changeset="126490932" timestamp="2022-09-22T07:00:06Z" user="Mini_music" uid="16383807" lat="17.1883675" lon="78.6491788"/>
+ <node id="5720035950" visible="true" version="2" changeset="60237137" timestamp="2018-06-28T06:35:28Z" user="Janga Navya Reddy" uid="8403687" lat="17.1884308" lon="78.6494456"/>
+ <node id="5720035951" visible="true" version="2" changeset="60237137" timestamp="2018-06-28T06:35:28Z" user="Janga Navya Reddy" uid="8403687" lat="17.1885043" lon="78.6494151"/>
+ <node id="5720035952" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:37Z" user="Janga Navya Reddy" uid="8403687" lat="17.1884088" lon="78.6491624"/>
+ <node id="5720035953" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:37Z" user="Janga Navya Reddy" uid="8403687" lat="17.1885092" lon="78.6491234"/>
+ <node id="5720035954" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:37Z" user="Janga Navya Reddy" uid="8403687" lat="17.1885356" lon="78.6491932"/>
+ <node id="5720035955" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:37Z" user="Janga Navya Reddy" uid="8403687" lat="17.1885581" lon="78.6491839"/>
+ <node id="5720035956" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:37Z" user="Janga Navya Reddy" uid="8403687" lat="17.1885318" lon="78.6491141"/>
+ <node id="5720035957" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:37Z" user="Janga Navya Reddy" uid="8403687" lat="17.1885475" lon="78.6491168"/>
+ <node id="5720035958" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:37Z" user="Janga Navya Reddy" uid="8403687" lat="17.1885728" lon="78.6491838"/>
+ <node id="5720035959" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:37Z" user="Janga Navya Reddy" uid="8403687" lat="17.1885891" lon="78.6491770"/>
+ <node id="5720035960" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:37Z" user="Janga Navya Reddy" uid="8403687" lat="17.1885638" lon="78.6491100"/>
+ <node id="5720035961" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:37Z" user="Janga Navya Reddy" uid="8403687" lat="17.1885641" lon="78.6490778"/>
+ <node id="5720035962" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:37Z" user="Janga Navya Reddy" uid="8403687" lat="17.1885920" lon="78.6491516"/>
+ <node id="5720035963" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:37Z" user="Janga Navya Reddy" uid="8403687" lat="17.1886955" lon="78.6491088"/>
+ <node id="5720035964" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:37Z" user="Janga Navya Reddy" uid="8403687" lat="17.1886676" lon="78.6490349"/>
+ <node id="5720035965" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:37Z" user="Janga Navya Reddy" uid="8403687" lat="17.1884212" lon="78.6491519"/>
+ <node id="5720035966" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:37Z" user="Janga Navya Reddy" uid="8403687" lat="17.1884651" lon="78.6492683"/>
+ <node id="5720035967" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:37Z" user="Janga Navya Reddy" uid="8403687" lat="17.1885437" lon="78.6492358"/>
+ <node id="5720035968" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:37Z" user="Janga Navya Reddy" uid="8403687" lat="17.1884997" lon="78.6491194"/>
+ <node id="5720035969" visible="true" version="2" changeset="60235992" timestamp="2018-06-28T05:52:44Z" user="Janga Navya Reddy" uid="8403687" lat="17.1884696" lon="78.6492838"/>
+ <node id="5720035970" visible="true" version="2" changeset="60235992" timestamp="2018-06-28T05:52:44Z" user="Janga Navya Reddy" uid="8403687" lat="17.1885312" lon="78.6494224"/>
+ <node id="5720035971" visible="true" version="2" changeset="60235992" timestamp="2018-06-28T05:52:44Z" user="Janga Navya Reddy" uid="8403687" lat="17.1886569" lon="78.6493612"/>
+ <node id="5720035972" visible="true" version="2" changeset="60235992" timestamp="2018-06-28T05:52:44Z" user="Janga Navya Reddy" uid="8403687" lat="17.1885952" lon="78.6492226"/>
+ <node id="5720035973" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:38Z" user="Janga Navya Reddy" uid="8403687" lat="17.1884395" lon="78.6495248"/>
+ <node id="5720035974" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:38Z" user="Janga Navya Reddy" uid="8403687" lat="17.1884754" lon="78.6496411"/>
+ <node id="5720035975" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:38Z" user="Janga Navya Reddy" uid="8403687" lat="17.1885677" lon="78.6496099"/>
+ <node id="5720035976" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:38Z" user="Janga Navya Reddy" uid="8403687" lat="17.1885318" lon="78.6494936"/>
+ <node id="5720035977" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:38Z" user="Janga Navya Reddy" uid="8403687" lat="17.1878297" lon="78.6498064"/>
+ <node id="5720035978" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:38Z" user="Janga Navya Reddy" uid="8403687" lat="17.1878604" lon="78.6499060"/>
+ <node id="5720035979" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:38Z" user="Janga Navya Reddy" uid="8403687" lat="17.1879584" lon="78.6498729"/>
+ <node id="5720035980" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:38Z" user="Janga Navya Reddy" uid="8403687" lat="17.1879277" lon="78.6497732"/>
+ <node id="5720035981" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:38Z" user="Janga Navya Reddy" uid="8403687" lat="17.1878590" lon="78.6499177"/>
+ <node id="5720035982" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:38Z" user="Janga Navya Reddy" uid="8403687" lat="17.1878982" lon="78.6500448"/>
+ <node id="5720035983" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:38Z" user="Janga Navya Reddy" uid="8403687" lat="17.1880002" lon="78.6500103"/>
+ <node id="5720035984" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:38Z" user="Janga Navya Reddy" uid="8403687" lat="17.1879610" lon="78.6498832"/>
+ <node id="5720035985" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:38Z" user="Janga Navya Reddy" uid="8403687" lat="17.1879427" lon="78.6497645"/>
+ <node id="5720035986" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:38Z" user="Janga Navya Reddy" uid="8403687" lat="17.1879732" lon="78.6498631"/>
+ <node id="5720035987" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:38Z" user="Janga Navya Reddy" uid="8403687" lat="17.1880087" lon="78.6498511"/>
+ <node id="5720035988" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:38Z" user="Janga Navya Reddy" uid="8403687" lat="17.1879783" lon="78.6497524"/>
+ <node id="5720035989" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:38Z" user="Janga Navya Reddy" uid="8403687" lat="17.1879924" lon="78.6498662"/>
+ <node id="5720035990" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:38Z" user="Janga Navya Reddy" uid="8403687" lat="17.1880308" lon="78.6499905"/>
+ <node id="5720035991" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:38Z" user="Janga Navya Reddy" uid="8403687" lat="17.1881787" lon="78.6499405"/>
+ <node id="5720035992" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:38Z" user="Janga Navya Reddy" uid="8403687" lat="17.1881404" lon="78.6498161"/>
+ <node id="5720035993" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:38Z" user="Janga Navya Reddy" uid="8403687" lat="17.1881537" lon="78.6497840"/>
+ <node id="5720035994" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:38Z" user="Janga Navya Reddy" uid="8403687" lat="17.1881897" lon="78.6499006"/>
+ <node id="5720035995" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:38Z" user="Janga Navya Reddy" uid="8403687" lat="17.1882968" lon="78.6498644"/>
+ <node id="5720035996" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:38Z" user="Janga Navya Reddy" uid="8403687" lat="17.1882608" lon="78.6497477"/>
+ <node id="5720035997" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:38Z" user="Janga Navya Reddy" uid="8403687" lat="17.1882728" lon="78.6497307"/>
+ <node id="5720035998" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:38Z" user="Janga Navya Reddy" uid="8403687" lat="17.1883114" lon="78.6498557"/>
+ <node id="5720035999" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:38Z" user="Janga Navya Reddy" uid="8403687" lat="17.1883999" lon="78.6498258"/>
+ <node id="5720036000" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:38Z" user="Janga Navya Reddy" uid="8403687" lat="17.1883614" lon="78.6497008"/>
+ <node id="5720036001" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:38Z" user="Janga Navya Reddy" uid="8403687" lat="17.1884635" lon="78.6500145"/>
+ <node id="5720036002" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:38Z" user="Janga Navya Reddy" uid="8403687" lat="17.1884812" lon="78.6500716"/>
+ <node id="5720036003" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:38Z" user="Janga Navya Reddy" uid="8403687" lat="17.1885283" lon="78.6500557"/>
+ <node id="5720036004" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:38Z" user="Janga Navya Reddy" uid="8403687" lat="17.1885106" lon="78.6499985"/>
+ <node id="5720036005" visible="true" version="2" changeset="60215817" timestamp="2018-06-27T12:23:23Z" user="Janga Navya Reddy" uid="8403687" lat="17.1883521" lon="78.6500474"/>
+ <node id="5720036006" visible="true" version="2" changeset="60215817" timestamp="2018-06-27T12:23:23Z" user="Janga Navya Reddy" uid="8403687" lat="17.1883995" lon="78.6502011"/>
+ <node id="5720036007" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:38Z" user="Janga Navya Reddy" uid="8403687" lat="17.1884985" lon="78.6501676"/>
+ <node id="5720036008" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:38Z" user="Janga Navya Reddy" uid="8403687" lat="17.1884511" lon="78.6500140"/>
+ <node id="5720036009" visible="true" version="2" changeset="60215817" timestamp="2018-06-27T12:23:23Z" user="Janga Navya Reddy" uid="8403687" lat="17.1882810" lon="78.6501010"/>
+ <node id="5720036010" visible="true" version="2" changeset="60215817" timestamp="2018-06-27T12:23:23Z" user="Janga Navya Reddy" uid="8403687" lat="17.1883203" lon="78.6502285"/>
+ <node id="5720036011" visible="true" version="2" changeset="60215817" timestamp="2018-06-27T12:23:23Z" user="Janga Navya Reddy" uid="8403687" lat="17.1883994" lon="78.6502018"/>
+ <node id="5720036012" visible="true" version="2" changeset="60215817" timestamp="2018-06-27T12:23:23Z" user="Janga Navya Reddy" uid="8403687" lat="17.1883601" lon="78.6500743"/>
+ <node id="5720036013" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:38Z" user="Janga Navya Reddy" uid="8403687" lat="17.1882174" lon="78.6499680"/>
+ <node id="5720036014" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:38Z" user="Janga Navya Reddy" uid="8403687" lat="17.1882461" lon="78.6500609"/>
+ <node id="5720036015" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:38Z" user="Janga Navya Reddy" uid="8403687" lat="17.1883401" lon="78.6500291"/>
+ <node id="5720036016" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:38Z" user="Janga Navya Reddy" uid="8403687" lat="17.1883114" lon="78.6499362"/>
+ <node id="5720036017" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:38Z" user="Janga Navya Reddy" uid="8403687" lat="17.1881511" lon="78.6501320"/>
+ <node id="5720036018" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:38Z" user="Janga Navya Reddy" uid="8403687" lat="17.1881954" lon="78.6502756"/>
+ <node id="5720036019" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:38Z" user="Janga Navya Reddy" uid="8403687" lat="17.1882988" lon="78.6502406"/>
+ <node id="5720036020" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:38Z" user="Janga Navya Reddy" uid="8403687" lat="17.1882544" lon="78.6500970"/>
+ <node id="5720036021" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:38Z" user="Janga Navya Reddy" uid="8403687" lat="17.1878723" lon="78.6504874"/>
+ <node id="5720036022" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:38Z" user="Janga Navya Reddy" uid="8403687" lat="17.1878873" lon="78.6505812"/>
+ <node id="5720036023" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:38Z" user="Janga Navya Reddy" uid="8403687" lat="17.1879485" lon="78.6505705"/>
+ <node id="5720036024" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:38Z" user="Janga Navya Reddy" uid="8403687" lat="17.1879334" lon="78.6504766"/>
+ <node id="5720036025" visible="true" version="2" changeset="60215817" timestamp="2018-06-27T12:23:23Z" user="Janga Navya Reddy" uid="8403687" lat="17.1880458" lon="78.6504942"/>
+ <node id="5720036026" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:38Z" user="Janga Navya Reddy" uid="8403687" lat="17.1880548" lon="78.6505505"/>
+ <node id="5720036027" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:38Z" user="Janga Navya Reddy" uid="8403687" lat="17.1881691" lon="78.6505304"/>
+ <node id="5720036028" visible="true" version="2" changeset="60215817" timestamp="2018-06-27T12:23:23Z" user="Janga Navya Reddy" uid="8403687" lat="17.1881597" lon="78.6504726"/>
+ <node id="5720036029" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:38Z" user="Janga Navya Reddy" uid="8403687" lat="17.1879962" lon="78.6503757"/>
+ <node id="5720036030" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:38Z" user="Janga Navya Reddy" uid="8403687" lat="17.1879142" lon="78.6504119"/>
+ <node id="5720036031" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:38Z" user="Janga Navya Reddy" uid="8403687" lat="17.1878732" lon="78.6503103"/>
+ <node id="5720036032" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:39Z" user="Janga Navya Reddy" uid="8403687" lat="17.1879552" lon="78.6502741"/>
+ <node id="5720036033" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:39Z" user="Janga Navya Reddy" uid="8403687" lat="17.1880852" lon="78.6503304"/>
+ <node id="5720036034" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:39Z" user="Janga Navya Reddy" uid="8403687" lat="17.1880043" lon="78.6503610"/>
+ <node id="5720036035" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:39Z" user="Janga Navya Reddy" uid="8403687" lat="17.1879597" lon="78.6502316"/>
+ <node id="5720036036" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:39Z" user="Janga Navya Reddy" uid="8403687" lat="17.1880406" lon="78.6502010"/>
+ <node id="5720036037" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:39Z" user="Janga Navya Reddy" uid="8403687" lat="17.1879476" lon="78.6502275"/>
+ <node id="5720036038" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:39Z" user="Janga Navya Reddy" uid="8403687" lat="17.1878618" lon="78.6502570"/>
+ <node id="5720036039" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:39Z" user="Janga Navya Reddy" uid="8403687" lat="17.1878335" lon="78.6501668"/>
+ <node id="5720036040" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:39Z" user="Janga Navya Reddy" uid="8403687" lat="17.1879194" lon="78.6501373"/>
+ <node id="5720036041" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:39Z" user="Janga Navya Reddy" uid="8403687" lat="17.1874361" lon="78.6499801"/>
+ <node id="5720036042" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:39Z" user="Janga Navya Reddy" uid="8403687" lat="17.1874667" lon="78.6500666"/>
+ <node id="5720036043" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:39Z" user="Janga Navya Reddy" uid="8403687" lat="17.1876602" lon="78.6499917"/>
+ <node id="5720036044" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:39Z" user="Janga Navya Reddy" uid="8403687" lat="17.1876297" lon="78.6499052"/>
+ <node id="5720036045" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:39Z" user="Janga Navya Reddy" uid="8403687" lat="17.1875055" lon="78.6502863"/>
+ <node id="5720036046" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:39Z" user="Janga Navya Reddy" uid="8403687" lat="17.1875235" lon="78.6503425"/>
+ <node id="5720036047" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:39Z" user="Janga Navya Reddy" uid="8403687" lat="17.1876234" lon="78.6503076"/>
+ <node id="5720036048" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:39Z" user="Janga Navya Reddy" uid="8403687" lat="17.1876055" lon="78.6502513"/>
+ <node id="5720036049" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:39Z" user="Janga Navya Reddy" uid="8403687" lat="17.1875272" lon="78.6503556"/>
+ <node id="5720036050" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:39Z" user="Janga Navya Reddy" uid="8403687" lat="17.1875491" lon="78.6504243"/>
+ <node id="5720036051" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:39Z" user="Janga Navya Reddy" uid="8403687" lat="17.1876517" lon="78.6503885"/>
+ <node id="5720036052" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:39Z" user="Janga Navya Reddy" uid="8403687" lat="17.1876298" lon="78.6503197"/>
+ <node id="5720036053" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:39Z" user="Janga Navya Reddy" uid="8403687" lat="17.1876309" lon="78.6502684"/>
+ <node id="5720036054" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:39Z" user="Janga Navya Reddy" uid="8403687" lat="17.1876682" lon="78.6503854"/>
+ <node id="5720036055" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:39Z" user="Janga Navya Reddy" uid="8403687" lat="17.1877709" lon="78.6503496"/>
+ <node id="5720036056" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:39Z" user="Janga Navya Reddy" uid="8403687" lat="17.1877336" lon="78.6502326"/>
+ <node id="5720071430" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:45Z" user="Janga Navya Reddy" uid="8403687" lat="17.1893914" lon="78.6488613"/>
+ <node id="5720071431" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:45Z" user="Janga Navya Reddy" uid="8403687" lat="17.1892628" lon="78.6489390"/>
+ <node id="5720071432" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:45Z" user="Janga Navya Reddy" uid="8403687" lat="17.1891785" lon="78.6487858"/>
+ <node id="5720071433" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:45Z" user="Janga Navya Reddy" uid="8403687" lat="17.1893071" lon="78.6487082"/>
+ <node id="5720071434" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:45Z" user="Janga Navya Reddy" uid="8403687" lat="17.1884267" lon="78.6505394"/>
+ <node id="5720071435" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:45Z" user="Janga Navya Reddy" uid="8403687" lat="17.1883062" lon="78.6505287"/>
+ <node id="5720071436" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:45Z" user="Janga Navya Reddy" uid="8403687" lat="17.1883140" lon="78.6504337"/>
+ <node id="5720071437" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:45Z" user="Janga Navya Reddy" uid="8403687" lat="17.1884344" lon="78.6504444"/>
+ <node id="5720071438" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:45Z" user="Janga Navya Reddy" uid="8403687" lat="17.1884417" lon="78.6509605"/>
+ <node id="5720071439" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:45Z" user="Janga Navya Reddy" uid="8403687" lat="17.1883412" lon="78.6509492"/>
+ <node id="5720071440" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:45Z" user="Janga Navya Reddy" uid="8403687" lat="17.1883555" lon="78.6508100"/>
+ <node id="5720071441" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:45Z" user="Janga Navya Reddy" uid="8403687" lat="17.1884561" lon="78.6508214"/>
+ <node id="5720071442" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:45Z" user="Janga Navya Reddy" uid="8403687" lat="17.1881161" lon="78.6507236"/>
+ <node id="5720071443" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:45Z" user="Janga Navya Reddy" uid="8403687" lat="17.1880500" lon="78.6507221"/>
+ <node id="5720071444" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:45Z" user="Janga Navya Reddy" uid="8403687" lat="17.1880519" lon="78.6506347"/>
+ <node id="5720071445" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:45Z" user="Janga Navya Reddy" uid="8403687" lat="17.1881179" lon="78.6506362"/>
+ <node id="5720071446" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:45Z" user="Janga Navya Reddy" uid="8403687" lat="17.1881931" lon="78.6508374"/>
+ <node id="5720071447" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:45Z" user="Janga Navya Reddy" uid="8403687" lat="17.1881346" lon="78.6508360"/>
+ <node id="5720071448" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:45Z" user="Janga Navya Reddy" uid="8403687" lat="17.1881389" lon="78.6506322"/>
+ <node id="5720071449" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:45Z" user="Janga Navya Reddy" uid="8403687" lat="17.1881974" lon="78.6506335"/>
+ <node id="5720071450" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:45Z" user="Janga Navya Reddy" uid="8403687" lat="17.1881159" lon="78.6508376"/>
+ <node id="5720071451" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:45Z" user="Janga Navya Reddy" uid="8403687" lat="17.1880475" lon="78.6508360"/>
+ <node id="5720071452" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:45Z" user="Janga Navya Reddy" uid="8403687" lat="17.1880495" lon="78.6507406"/>
+ <node id="5720071453" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:45Z" user="Janga Navya Reddy" uid="8403687" lat="17.1881179" lon="78.6507422"/>
+ <node id="5720071454" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:45Z" user="Janga Navya Reddy" uid="8403687" lat="17.1881374" lon="78.6509654"/>
+ <node id="5720071455" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:45Z" user="Janga Navya Reddy" uid="8403687" lat="17.1880539" lon="78.6509635"/>
+ <node id="5720071456" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:45Z" user="Janga Navya Reddy" uid="8403687" lat="17.1880562" lon="78.6508529"/>
+ <node id="5720071457" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:45Z" user="Janga Navya Reddy" uid="8403687" lat="17.1881397" lon="78.6508548"/>
+ <node id="5720071458" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:45Z" user="Janga Navya Reddy" uid="8403687" lat="17.1882605" lon="78.6509587"/>
+ <node id="5720071459" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:45Z" user="Janga Navya Reddy" uid="8403687" lat="17.1881756" lon="78.6509567"/>
+ <node id="5720071460" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:45Z" user="Janga Navya Reddy" uid="8403687" lat="17.1881778" lon="78.6508502"/>
+ <node id="5720071461" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:45Z" user="Janga Navya Reddy" uid="8403687" lat="17.1882627" lon="78.6508521"/>
+ <node id="5720071462" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:45Z" user="Janga Navya Reddy" uid="8403687" lat="17.1879355" lon="78.6508222"/>
+ <node id="5720071463" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:45Z" user="Janga Navya Reddy" uid="8403687" lat="17.1878950" lon="78.6508213"/>
+ <node id="5720071464" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:45Z" user="Janga Navya Reddy" uid="8403687" lat="17.1878981" lon="78.6506742"/>
+ <node id="5720071465" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:46Z" user="Janga Navya Reddy" uid="8403687" lat="17.1879386" lon="78.6506751"/>
+ <node id="5720071466" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:46Z" user="Janga Navya Reddy" uid="8403687" lat="17.1880245" lon="78.6507613"/>
+ <node id="5720071467" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:46Z" user="Janga Navya Reddy" uid="8403687" lat="17.1879501" lon="78.6507596"/>
+ <node id="5720071468" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:46Z" user="Janga Navya Reddy" uid="8403687" lat="17.1879525" lon="78.6506426"/>
+ <node id="5720071469" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:46Z" user="Janga Navya Reddy" uid="8403687" lat="17.1880270" lon="78.6506443"/>
+ <node id="5720071470" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:46Z" user="Janga Navya Reddy" uid="8403687" lat="17.1880115" lon="78.6509613"/>
+ <node id="5720071471" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:46Z" user="Janga Navya Reddy" uid="8403687" lat="17.1879309" lon="78.6509594"/>
+ <node id="5720071472" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:46Z" user="Janga Navya Reddy" uid="8403687" lat="17.1879335" lon="78.6508342"/>
+ <node id="5720071473" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:46Z" user="Janga Navya Reddy" uid="8403687" lat="17.1880142" lon="78.6508360"/>
+ <node id="5720071474" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:46Z" user="Janga Navya Reddy" uid="8403687" lat="17.1878182" lon="78.6508096"/>
+ <node id="5720071475" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:46Z" user="Janga Navya Reddy" uid="8403687" lat="17.1877438" lon="78.6508079"/>
+ <node id="5720071476" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:46Z" user="Janga Navya Reddy" uid="8403687" lat="17.1877464" lon="78.6506868"/>
+ <node id="5720071477" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:46Z" user="Janga Navya Reddy" uid="8403687" lat="17.1878207" lon="78.6506885"/>
+ <node id="5720071478" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:46Z" user="Janga Navya Reddy" uid="8403687" lat="17.1877252" lon="78.6507969"/>
+ <node id="5720071479" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:46Z" user="Janga Navya Reddy" uid="8403687" lat="17.1876319" lon="78.6507948"/>
+ <node id="5720071480" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:46Z" user="Janga Navya Reddy" uid="8403687" lat="17.1876343" lon="78.6506767"/>
+ <node id="5720071481" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:46Z" user="Janga Navya Reddy" uid="8403687" lat="17.1877277" lon="78.6506788"/>
+ <node id="5720374845" visible="true" version="2" changeset="60237137" timestamp="2018-06-28T06:35:28Z" user="Janga Navya Reddy" uid="8403687" lat="17.1888709" lon="78.6485469"/>
+ <node id="5720374846" visible="true" version="2" changeset="60237137" timestamp="2018-06-28T06:35:28Z" user="Janga Navya Reddy" uid="8403687" lat="17.1890958" lon="78.6488575"/>
+ <node id="5720374847" visible="true" version="2" changeset="60237137" timestamp="2018-06-28T06:35:28Z" user="Janga Navya Reddy" uid="8403687" lat="17.1891330" lon="78.6488383"/>
+ <node id="5720374848" visible="true" version="2" changeset="60237137" timestamp="2018-06-28T06:35:28Z" user="Janga Navya Reddy" uid="8403687" lat="17.1889711" lon="78.6484951"/>
+ <node id="5720374849" visible="true" version="1" changeset="60181610" timestamp="2018-06-26T12:30:04Z" user="Janga Navya Reddy" uid="8403687" lat="17.1889524" lon="78.6489017"/>
+ <node id="5720374850" visible="true" version="1" changeset="60181610" timestamp="2018-06-26T12:30:04Z" user="Janga Navya Reddy" uid="8403687" lat="17.1890112" lon="78.6488743"/>
+ <node id="5720374851" visible="true" version="1" changeset="60181610" timestamp="2018-06-26T12:30:04Z" user="Janga Navya Reddy" uid="8403687" lat="17.1889161" lon="78.6486512"/>
+ <node id="5720374852" visible="true" version="1" changeset="60181610" timestamp="2018-06-26T12:30:04Z" user="Janga Navya Reddy" uid="8403687" lat="17.1888573" lon="78.6486786"/>
+ <node id="5720374853" visible="true" version="1" changeset="60181610" timestamp="2018-06-26T12:30:04Z" user="Janga Navya Reddy" uid="8403687" lat="17.1888443" lon="78.6488349"/>
+ <node id="5720374854" visible="true" version="1" changeset="60181610" timestamp="2018-06-26T12:30:04Z" user="Janga Navya Reddy" uid="8403687" lat="17.1888412" lon="78.6488623"/>
+ <node id="5720374855" visible="true" version="1" changeset="60181610" timestamp="2018-06-26T12:30:04Z" user="Janga Navya Reddy" uid="8403687" lat="17.1888804" lon="78.6488671"/>
+ <node id="5720374856" visible="true" version="1" changeset="60181610" timestamp="2018-06-26T12:30:04Z" user="Janga Navya Reddy" uid="8403687" lat="17.1888835" lon="78.6488397"/>
+ <node id="5720374857" visible="true" version="2" changeset="60237137" timestamp="2018-06-28T06:35:28Z" user="Janga Navya Reddy" uid="8403687" lat="17.1889450" lon="78.6488973"/>
+ <node id="5720374858" visible="true" version="2" changeset="60237137" timestamp="2018-06-28T06:35:28Z" user="Janga Navya Reddy" uid="8403687" lat="17.1889176" lon="78.6489129"/>
+ <node id="5720374859" visible="true" version="2" changeset="60237137" timestamp="2018-06-28T06:35:28Z" user="Janga Navya Reddy" uid="8403687" lat="17.1888911" lon="78.6488621"/>
+ <node id="5720374860" visible="true" version="2" changeset="60237137" timestamp="2018-06-28T06:35:28Z" user="Janga Navya Reddy" uid="8403687" lat="17.1889185" lon="78.6488464"/>
+ <node id="5720374861" visible="true" version="2" changeset="60236408" timestamp="2018-06-28T06:06:42Z" user="Janga Navya Reddy" uid="8403687" lat="17.1888506" lon="78.6490528"/>
+ <node id="5720374862" visible="true" version="2" changeset="60236408" timestamp="2018-06-28T06:06:42Z" user="Janga Navya Reddy" uid="8403687" lat="17.1887877" lon="78.6490385"/>
+ <node id="5720374863" visible="true" version="2" changeset="60236408" timestamp="2018-06-28T06:06:42Z" user="Janga Navya Reddy" uid="8403687" lat="17.1887989" lon="78.6489851"/>
+ <node id="5720374864" visible="true" version="2" changeset="60236408" timestamp="2018-06-28T06:06:42Z" user="Janga Navya Reddy" uid="8403687" lat="17.1888617" lon="78.6489994"/>
+ <node id="5720374865" visible="true" version="2" changeset="60236408" timestamp="2018-06-28T06:06:42Z" user="Janga Navya Reddy" uid="8403687" lat="17.1889197" lon="78.6490684"/>
+ <node id="5720374866" visible="true" version="2" changeset="60236408" timestamp="2018-06-28T06:06:42Z" user="Janga Navya Reddy" uid="8403687" lat="17.1888584" lon="78.6490544"/>
+ <node id="5720374867" visible="true" version="2" changeset="60236408" timestamp="2018-06-28T06:06:42Z" user="Janga Navya Reddy" uid="8403687" lat="17.1888730" lon="78.6489846"/>
+ <node id="5720374868" visible="true" version="2" changeset="60236408" timestamp="2018-06-28T06:06:42Z" user="Janga Navya Reddy" uid="8403687" lat="17.1889342" lon="78.6489986"/>
+ <node id="5720374869" visible="true" version="2" changeset="60241922" timestamp="2018-06-28T09:10:59Z" user="shashi2" uid="2891142" lat="17.1888455" lon="78.6490671"/>
+ <node id="5720374870" visible="true" version="2" changeset="60241922" timestamp="2018-06-28T09:10:59Z" user="shashi2" uid="2891142" lat="17.1888147" lon="78.6492148"/>
+ <node id="5720374871" visible="true" version="2" changeset="60241922" timestamp="2018-06-28T09:10:59Z" user="shashi2" uid="2891142" lat="17.1889589" lon="78.6492479"/>
+ <node id="5720374872" visible="true" version="2" changeset="60241922" timestamp="2018-06-28T09:10:59Z" user="shashi2" uid="2891142" lat="17.1889897" lon="78.6491001"/>
+ <node id="5720374993" visible="true" version="1" changeset="60181610" timestamp="2018-06-26T12:30:06Z" user="Janga Navya Reddy" uid="8403687" lat="17.1891525" lon="78.6520009"/>
+ <node id="5720374994" visible="true" version="1" changeset="60181610" timestamp="2018-06-26T12:30:06Z" user="Janga Navya Reddy" uid="8403687" lat="17.1890692" lon="78.6519754"/>
+ <node id="5720374995" visible="true" version="1" changeset="60181610" timestamp="2018-06-26T12:30:06Z" user="Janga Navya Reddy" uid="8403687" lat="17.1890968" lon="78.6518767"/>
+ <node id="5720374996" visible="true" version="1" changeset="60181610" timestamp="2018-06-26T12:30:06Z" user="Janga Navya Reddy" uid="8403687" lat="17.1891801" lon="78.6519022"/>
+ <node id="5720374997" visible="true" version="1" changeset="60181610" timestamp="2018-06-26T12:30:06Z" user="Janga Navya Reddy" uid="8403687" lat="17.1891074" lon="78.6518277"/>
+ <node id="5720374998" visible="true" version="1" changeset="60181610" timestamp="2018-06-26T12:30:06Z" user="Janga Navya Reddy" uid="8403687" lat="17.1890432" lon="78.6518051"/>
+ <node id="5720374999" visible="true" version="1" changeset="60181610" timestamp="2018-06-26T12:30:06Z" user="Janga Navya Reddy" uid="8403687" lat="17.1891235" lon="78.6515551"/>
+ <node id="5720375000" visible="true" version="1" changeset="60181610" timestamp="2018-06-26T12:30:06Z" user="Janga Navya Reddy" uid="8403687" lat="17.1891877" lon="78.6515777"/>
+ <node id="5720375001" visible="true" version="1" changeset="60181610" timestamp="2018-06-26T12:30:06Z" user="Janga Navya Reddy" uid="8403687" lat="17.1892107" lon="78.6518107"/>
+ <node id="5720375002" visible="true" version="1" changeset="60181610" timestamp="2018-06-26T12:30:06Z" user="Janga Navya Reddy" uid="8403687" lat="17.1891467" lon="78.6517882"/>
+ <node id="5720375003" visible="true" version="1" changeset="60181610" timestamp="2018-06-26T12:30:06Z" user="Janga Navya Reddy" uid="8403687" lat="17.1891712" lon="78.6517121"/>
+ <node id="5720375004" visible="true" version="1" changeset="60181610" timestamp="2018-06-26T12:30:06Z" user="Janga Navya Reddy" uid="8403687" lat="17.1892352" lon="78.6517346"/>
+ <node id="5720375005" visible="true" version="1" changeset="60181610" timestamp="2018-06-26T12:30:06Z" user="Janga Navya Reddy" uid="8403687" lat="17.1893351" lon="78.6517165"/>
+ <node id="5720375006" visible="true" version="1" changeset="60181610" timestamp="2018-06-26T12:30:06Z" user="Janga Navya Reddy" uid="8403687" lat="17.1892608" lon="78.6516903"/>
+ <node id="5720375007" visible="true" version="1" changeset="60181610" timestamp="2018-06-26T12:30:06Z" user="Janga Navya Reddy" uid="8403687" lat="17.1892851" lon="78.6516146"/>
+ <node id="5720375008" visible="true" version="1" changeset="60181610" timestamp="2018-06-26T12:30:06Z" user="Janga Navya Reddy" uid="8403687" lat="17.1893594" lon="78.6516407"/>
+ <node id="5720375009" visible="true" version="1" changeset="60181610" timestamp="2018-06-26T12:30:06Z" user="Janga Navya Reddy" uid="8403687" lat="17.1893679" lon="78.6518927"/>
+ <node id="5720375010" visible="true" version="1" changeset="60181610" timestamp="2018-06-26T12:30:06Z" user="Janga Navya Reddy" uid="8403687" lat="17.1892092" lon="78.6518368"/>
+ <node id="5720375011" visible="true" version="1" changeset="60181610" timestamp="2018-06-26T12:30:06Z" user="Janga Navya Reddy" uid="8403687" lat="17.1892313" lon="78.6517681"/>
+ <node id="5720375012" visible="true" version="1" changeset="60181610" timestamp="2018-06-26T12:30:06Z" user="Janga Navya Reddy" uid="8403687" lat="17.1893900" lon="78.6518240"/>
+ <node id="5723020646" visible="true" version="1" changeset="60215817" timestamp="2018-06-27T12:23:04Z" user="Janga Navya Reddy" uid="8403687" lat="17.1881477" lon="78.6504629"/>
+ <node id="5723020647" visible="true" version="1" changeset="60215817" timestamp="2018-06-27T12:23:04Z" user="Janga Navya Reddy" uid="8403687" lat="17.1880403" lon="78.6504819"/>
+ <node id="5723020648" visible="true" version="1" changeset="60215817" timestamp="2018-06-27T12:23:04Z" user="Janga Navya Reddy" uid="8403687" lat="17.1880298" lon="78.6504165"/>
+ <node id="5723020649" visible="true" version="1" changeset="60215817" timestamp="2018-06-27T12:23:04Z" user="Janga Navya Reddy" uid="8403687" lat="17.1881372" lon="78.6503975"/>
+ <node id="5723020650" visible="true" version="1" changeset="60215817" timestamp="2018-06-27T12:23:04Z" user="Janga Navya Reddy" uid="8403687" lat="17.1880455" lon="78.6504927"/>
+ <node id="5724636953" visible="true" version="1" changeset="60235096" timestamp="2018-06-28T05:15:39Z" user="Janga Navya Reddy" uid="8403687" lat="17.1889747" lon="78.6494247"/>
+ <node id="5724636954" visible="true" version="1" changeset="60235096" timestamp="2018-06-28T05:15:39Z" user="Janga Navya Reddy" uid="8403687" lat="17.1889263" lon="78.6494141"/>
+ <node id="5724636955" visible="true" version="1" changeset="60235096" timestamp="2018-06-28T05:15:39Z" user="Janga Navya Reddy" uid="8403687" lat="17.1889485" lon="78.6493033"/>
+ <node id="5724636956" visible="true" version="1" changeset="60235096" timestamp="2018-06-28T05:15:39Z" user="Janga Navya Reddy" uid="8403687" lat="17.1889968" lon="78.6493139"/>
+ <node id="5724819322" visible="true" version="1" changeset="60237137" timestamp="2018-06-28T06:35:26Z" user="Janga Navya Reddy" uid="8403687" lat="17.1883352" lon="78.6491928"/>
+ <node id="5724819323" visible="true" version="1" changeset="60237137" timestamp="2018-06-28T06:35:26Z" user="Janga Navya Reddy" uid="8403687" lat="17.1890327" lon="78.6488901"/>
+ <node id="5724819340" visible="true" version="1" changeset="60237137" timestamp="2018-06-28T06:35:26Z" user="Janga Navya Reddy" uid="8403687" lat="17.1880705" lon="78.6498317"/>
+ <node id="5724819341" visible="true" version="1" changeset="60237137" timestamp="2018-06-28T06:35:26Z" user="Janga Navya Reddy" uid="8403687" lat="17.1880216" lon="78.6498483"/>
+ <node id="5724819342" visible="true" version="1" changeset="60237137" timestamp="2018-06-28T06:35:26Z" user="Janga Navya Reddy" uid="8403687" lat="17.1879921" lon="78.6497529"/>
+ <node id="5724819343" visible="true" version="1" changeset="60237137" timestamp="2018-06-28T06:35:26Z" user="Janga Navya Reddy" uid="8403687" lat="17.1880411" lon="78.6497363"/>
+ <node id="5724819356" visible="true" version="1" changeset="60237137" timestamp="2018-06-28T06:35:27Z" user="Janga Navya Reddy" uid="8403687" lat="17.1875510" lon="78.6491447"/>
+ <node id="5724819357" visible="true" version="1" changeset="60237137" timestamp="2018-06-28T06:35:27Z" user="Janga Navya Reddy" uid="8403687" lat="17.1876181" lon="78.6493093"/>
+ <node id="5724819358" visible="true" version="1" changeset="60237137" timestamp="2018-06-28T06:35:27Z" user="Janga Navya Reddy" uid="8403687" lat="17.1876647" lon="78.6492885"/>
+ <node id="5724819359" visible="true" version="1" changeset="60237137" timestamp="2018-06-28T06:35:27Z" user="Janga Navya Reddy" uid="8403687" lat="17.1875976" lon="78.6491239"/>
+ <node id="7129724441" visible="true" version="1" changeset="79539028" timestamp="2020-01-14T02:10:08Z" user="Amit kumar Yadav" uid="8782067" lat="17.1851009" lon="78.6501576"/>
+ <node id="7129724443" visible="true" version="1" changeset="79539028" timestamp="2020-01-14T02:10:08Z" user="Amit kumar Yadav" uid="8782067" lat="17.1870979" lon="78.6492190"/>
+ <node id="7129724444" visible="true" version="1" changeset="79539028" timestamp="2020-01-14T02:10:08Z" user="Amit kumar Yadav" uid="8782067" lat="17.1888275" lon="78.6484178"/>
+ <node id="7129724445" visible="true" version="1" changeset="79539028" timestamp="2020-01-14T02:10:08Z" user="Amit kumar Yadav" uid="8782067" lat="17.1889206" lon="78.6483763"/>
+ <node id="7129724447" visible="true" version="1" changeset="79539028" timestamp="2020-01-14T02:10:08Z" user="Amit kumar Yadav" uid="8782067" lat="17.1889311" lon="78.6484057"/>
+ <node id="7129724448" visible="true" version="1" changeset="79539028" timestamp="2020-01-14T02:10:08Z" user="Amit kumar Yadav" uid="8782067" lat="17.1888261" lon="78.6484486"/>
+ <node id="8748763472" visible="true" version="1" changeset="105009735" timestamp="2021-05-20T08:04:15Z" user="R45_Srini Reddy" uid="11593937" lat="17.1880949" lon="78.6490162">
+  <tag k="addr:district" v="Rangareddy"/>
+  <tag k="addr:full" v="Nagarjuna Sagar Road, Ibrahimpatnam"/>
+  <tag k="addr:postcode" v="501506"/>
+  <tag k="addr:state" v="Telangana"/>
+  <tag k="amenity" v="hospital"/>
+  <tag k="name" v="Suraksha Multispeciality Hospital"/>
+  <tag k="source" v="Local Knowledge"/>
+ </node>
+ <way id="265788704" visible="true" version="7" changeset="79539028" timestamp="2020-01-14T02:10:08Z" user="Amit kumar Yadav" uid="8782067">
+  <nd ref="2714061128"/>
+  <nd ref="4174054543"/>
+  <nd ref="5230130855"/>
+  <nd ref="2714061086"/>
+  <nd ref="5232287011"/>
+  <nd ref="5230130853"/>
+  <nd ref="2714061085"/>
+  <nd ref="5230196553"/>
+  <nd ref="5230196551"/>
+  <nd ref="7129724447"/>
+  <nd ref="7129724445"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="265788712" visible="true" version="5" changeset="79539028" timestamp="2020-01-14T02:10:08Z" user="Amit kumar Yadav" uid="8782067">
+  <nd ref="7129724443"/>
+  <nd ref="2714061051"/>
+  <nd ref="5230196594"/>
+  <nd ref="2714061058"/>
+  <nd ref="5230196596"/>
+  <nd ref="5230196600"/>
+  <nd ref="2714061060"/>
+  <nd ref="2714061065"/>
+  <nd ref="5230196570"/>
+  <nd ref="5230196560"/>
+  <nd ref="5230196568"/>
+  <nd ref="5232286935"/>
+  <nd ref="5230196588"/>
+  <nd ref="5232286937"/>
+  <nd ref="5230196579"/>
+  <nd ref="2714061062"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="540667709" visible="true" version="2" changeset="53833590" timestamp="2017-11-16T08:51:39Z" user="Akash Kumar burman" uid="2662203">
+  <nd ref="2714061065"/>
+  <nd ref="5232286931"/>
+  <nd ref="5230130849"/>
+  <nd ref="5230130854"/>
+  <nd ref="5230130856"/>
+  <nd ref="5230130850"/>
+  <nd ref="4174054544"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="540667710" visible="true" version="4" changeset="79539028" timestamp="2020-01-14T02:10:08Z" user="Amit kumar Yadav" uid="8782067">
+  <nd ref="7129724444"/>
+  <nd ref="7129724448"/>
+  <nd ref="5230196563"/>
+  <nd ref="5232287013"/>
+  <nd ref="5230130851"/>
+  <nd ref="5230196602"/>
+  <nd ref="5230196598"/>
+  <nd ref="5230196599"/>
+  <nd ref="5230196604"/>
+  <nd ref="5230130852"/>
+  <nd ref="2714061060"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="540667711" visible="true" version="3" changeset="53833590" timestamp="2017-11-16T08:51:39Z" user="Akash Kumar burman" uid="2662203">
+  <nd ref="5230130853"/>
+  <nd ref="5232287012"/>
+  <nd ref="5230196601"/>
+  <nd ref="5230196831"/>
+  <nd ref="5230196603"/>
+  <nd ref="5232286929"/>
+  <nd ref="5230130854"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="540674224" visible="true" version="2" changeset="53833590" timestamp="2017-11-16T08:51:42Z" user="Akash Kumar burman" uid="2662203">
+  <nd ref="2714061109"/>
+  <nd ref="5232287008"/>
+  <nd ref="5230196552"/>
+  <nd ref="5230196553"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="540674229" visible="true" version="2" changeset="53833590" timestamp="2017-11-16T08:51:39Z" user="Akash Kumar burman" uid="2662203">
+  <nd ref="5230196544"/>
+  <nd ref="5230196557"/>
+  <nd ref="5232286927"/>
+  <nd ref="5230196617"/>
+  <nd ref="5230196561"/>
+  <nd ref="5230196558"/>
+  <nd ref="5232286933"/>
+  <nd ref="5230196615"/>
+  <nd ref="5230196559"/>
+  <nd ref="5230196560"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="540674231" visible="true" version="1" changeset="53800505" timestamp="2017-11-15T11:40:16Z" user="Akash Kumar burman" uid="2662203">
+  <nd ref="5230130854"/>
+  <nd ref="5230196562"/>
+  <nd ref="5230196561"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="540674233" visible="true" version="2" changeset="53833590" timestamp="2017-11-16T08:51:39Z" user="Akash Kumar burman" uid="2662203">
+  <nd ref="5230196556"/>
+  <nd ref="5230196823"/>
+  <nd ref="5232286926"/>
+  <nd ref="5230196562"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="540674236" visible="true" version="2" changeset="79539028" timestamp="2020-01-14T02:10:08Z" user="Amit kumar Yadav" uid="8782067">
+  <nd ref="5230196563"/>
+  <nd ref="2714061051"/>
+  <nd ref="5230196573"/>
+  <nd ref="5230196564"/>
+  <nd ref="7129724441"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="540674241" visible="true" version="2" changeset="53834946" timestamp="2017-11-16T09:25:05Z" user="Akash Kumar burman" uid="2662203">
+  <nd ref="5230196569"/>
+  <nd ref="5232342330"/>
+  <nd ref="5230196593"/>
+  <nd ref="5230196575"/>
+  <nd ref="2714061065"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="540674261" visible="true" version="1" changeset="53800505" timestamp="2017-11-15T11:40:16Z" user="Akash Kumar burman" uid="2662203">
+  <nd ref="2714061060"/>
+  <nd ref="5230196597"/>
+  <nd ref="5230196591"/>
+  <nd ref="5230196592"/>
+  <nd ref="5230196593"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="540674266" visible="true" version="1" changeset="53800505" timestamp="2017-11-15T11:40:16Z" user="Akash Kumar burman" uid="2662203">
+  <nd ref="5230130851"/>
+  <nd ref="5230196594"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="540674268" visible="true" version="1" changeset="53800505" timestamp="2017-11-15T11:40:16Z" user="Akash Kumar burman" uid="2662203">
+  <nd ref="5230196598"/>
+  <nd ref="5230196596"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="540674270" visible="true" version="1" changeset="53800505" timestamp="2017-11-15T11:40:16Z" user="Akash Kumar burman" uid="2662203">
+  <nd ref="5230196599"/>
+  <nd ref="5230196600"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="540674271" visible="true" version="1" changeset="53800505" timestamp="2017-11-15T11:40:17Z" user="Akash Kumar burman" uid="2662203">
+  <nd ref="5230196601"/>
+  <nd ref="5230196602"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="540674273" visible="true" version="1" changeset="53800505" timestamp="2017-11-15T11:40:17Z" user="Akash Kumar burman" uid="2662203">
+  <nd ref="5230196603"/>
+  <nd ref="5230196604"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="540674284" visible="true" version="2" changeset="53833590" timestamp="2017-11-16T08:51:37Z" user="Akash Kumar burman" uid="2662203">
+  <nd ref="5230196615"/>
+  <nd ref="5232286934"/>
+  <nd ref="5232286984"/>
+  <nd ref="5232286936"/>
+  <nd ref="5230196619"/>
+  <nd ref="5232285379"/>
+  <nd ref="5232285377"/>
+  <nd ref="5230196616"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="540674286" visible="true" version="2" changeset="53833590" timestamp="2017-11-16T08:51:39Z" user="Akash Kumar burman" uid="2662203">
+  <nd ref="5230196617"/>
+  <nd ref="5230196620"/>
+  <nd ref="5232286987"/>
+  <nd ref="5232286938"/>
+  <nd ref="5232286957"/>
+  <nd ref="2410864155"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="540674295" visible="true" version="1" changeset="53800505" timestamp="2017-11-15T11:40:17Z" user="Akash Kumar burman" uid="2662203">
+  <nd ref="5230196830"/>
+  <nd ref="5230196831"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="540978809" visible="true" version="1" changeset="53833590" timestamp="2017-11-16T08:51:33Z" user="Akash Kumar burman" uid="2662203">
+  <nd ref="5232286926"/>
+  <nd ref="5232286927"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="540978811" visible="true" version="1" changeset="53833590" timestamp="2017-11-16T08:51:33Z" user="Akash Kumar burman" uid="2662203">
+  <nd ref="5232286928"/>
+  <nd ref="5232286929"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="540978812" visible="true" version="1" changeset="53833590" timestamp="2017-11-16T08:51:33Z" user="Akash Kumar burman" uid="2662203">
+  <nd ref="5230196562"/>
+  <nd ref="5232286930"/>
+  <nd ref="5232286931"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="540978814" visible="true" version="1" changeset="53833590" timestamp="2017-11-16T08:51:33Z" user="Akash Kumar burman" uid="2662203">
+  <nd ref="5230196570"/>
+  <nd ref="5232286932"/>
+  <nd ref="5232286930"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="540978815" visible="true" version="1" changeset="53833590" timestamp="2017-11-16T08:51:33Z" user="Akash Kumar burman" uid="2662203">
+  <nd ref="5232286932"/>
+  <nd ref="5232286933"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="540978817" visible="true" version="1" changeset="53833590" timestamp="2017-11-16T08:51:33Z" user="Akash Kumar burman" uid="2662203">
+  <nd ref="5232286934"/>
+  <nd ref="5232286935"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="540978868" visible="true" version="1" changeset="53833590" timestamp="2017-11-16T08:51:35Z" user="Akash Kumar burman" uid="2662203">
+  <nd ref="5232287012"/>
+  <nd ref="5232287013"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="602051126" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:29Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5719960363"/>
+  <nd ref="5719960360"/>
+  <nd ref="5719960361"/>
+  <nd ref="5719960362"/>
+  <nd ref="5719960363"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602051128" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:29Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5719960367"/>
+  <nd ref="5719960364"/>
+  <nd ref="5719960365"/>
+  <nd ref="5719960366"/>
+  <nd ref="5719960367"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602051131" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:29Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5719960371"/>
+  <nd ref="5719960368"/>
+  <nd ref="5719960369"/>
+  <nd ref="5719960370"/>
+  <nd ref="5719960371"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602051133" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:29Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5719960375"/>
+  <nd ref="5719960372"/>
+  <nd ref="5719960373"/>
+  <nd ref="5719960374"/>
+  <nd ref="5719960375"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602051135" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:29Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5719960379"/>
+  <nd ref="5719960376"/>
+  <nd ref="5719960377"/>
+  <nd ref="5719960378"/>
+  <nd ref="5719960379"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602051138" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:29Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5719960383"/>
+  <nd ref="5719960380"/>
+  <nd ref="5719960381"/>
+  <nd ref="5719960382"/>
+  <nd ref="5719960383"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602051140" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:29Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5719960387"/>
+  <nd ref="5719960384"/>
+  <nd ref="5719960385"/>
+  <nd ref="5719960386"/>
+  <nd ref="5719960387"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602051142" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:29Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5719960391"/>
+  <nd ref="5719960388"/>
+  <nd ref="5719960389"/>
+  <nd ref="5719960390"/>
+  <nd ref="5719960391"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602051144" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:29Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5719960395"/>
+  <nd ref="5719960394"/>
+  <nd ref="5719960393"/>
+  <nd ref="5719960392"/>
+  <nd ref="5719960395"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602051146" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:29Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5719960399"/>
+  <nd ref="5719960396"/>
+  <nd ref="5719960397"/>
+  <nd ref="5719960398"/>
+  <nd ref="5719960399"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602051148" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:30Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5719960403"/>
+  <nd ref="5719960400"/>
+  <nd ref="5719960401"/>
+  <nd ref="5719960402"/>
+  <nd ref="5719960403"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602051150" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:30Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5719960407"/>
+  <nd ref="5719960404"/>
+  <nd ref="5719960405"/>
+  <nd ref="5719960406"/>
+  <nd ref="5719960407"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602051152" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:30Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5719960411"/>
+  <nd ref="5719960408"/>
+  <nd ref="5719960409"/>
+  <nd ref="5719960410"/>
+  <nd ref="5719960411"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602051154" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:30Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5719960415"/>
+  <nd ref="5719960412"/>
+  <nd ref="5719960413"/>
+  <nd ref="5719960414"/>
+  <nd ref="5719960415"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602051156" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:30Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5719960419"/>
+  <nd ref="5719960416"/>
+  <nd ref="5719960417"/>
+  <nd ref="5719960418"/>
+  <nd ref="5719960419"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602051158" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:30Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5719960623"/>
+  <nd ref="5719960622"/>
+  <nd ref="5719960621"/>
+  <nd ref="5719960420"/>
+  <nd ref="5719960623"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602051160" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:30Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5719960627"/>
+  <nd ref="5719960624"/>
+  <nd ref="5719960625"/>
+  <nd ref="5719960626"/>
+  <nd ref="5719960627"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602051162" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:30Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5719960631"/>
+  <nd ref="5719960628"/>
+  <nd ref="5719960629"/>
+  <nd ref="5719960630"/>
+  <nd ref="5719960631"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602051164" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:30Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5719960635"/>
+  <nd ref="5719960632"/>
+  <nd ref="5719960633"/>
+  <nd ref="5719960634"/>
+  <nd ref="5719960635"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602051168" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:30Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5719960643"/>
+  <nd ref="5719960640"/>
+  <nd ref="5719960641"/>
+  <nd ref="5719960642"/>
+  <nd ref="5719960643"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602051170" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:30Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5719960647"/>
+  <nd ref="5719960644"/>
+  <nd ref="5719960645"/>
+  <nd ref="5719960646"/>
+  <nd ref="5719960647"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602051172" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:30Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5719960651"/>
+  <nd ref="5719960648"/>
+  <nd ref="5719960649"/>
+  <nd ref="5719960650"/>
+  <nd ref="5719960651"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602051174" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:30Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5719960655"/>
+  <nd ref="5719960652"/>
+  <nd ref="5719960653"/>
+  <nd ref="5719960654"/>
+  <nd ref="5719960655"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602051208" visible="true" version="1" changeset="60177076" timestamp="2018-06-26T10:14:31Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5719960715"/>
+  <nd ref="5719960712"/>
+  <nd ref="5719960713"/>
+  <nd ref="5719960714"/>
+  <nd ref="5719960715"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064445" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:47Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035624"/>
+  <nd ref="5720035621"/>
+  <nd ref="5720035622"/>
+  <nd ref="5720035623"/>
+  <nd ref="5720035624"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064446" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:47Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035628"/>
+  <nd ref="5720035625"/>
+  <nd ref="5720035626"/>
+  <nd ref="5720035627"/>
+  <nd ref="5720035628"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064447" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:47Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035632"/>
+  <nd ref="5720035629"/>
+  <nd ref="5720035630"/>
+  <nd ref="5720035631"/>
+  <nd ref="5720035632"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064448" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:48Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035636"/>
+  <nd ref="5720035633"/>
+  <nd ref="5720035634"/>
+  <nd ref="5720035635"/>
+  <nd ref="5720035636"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064449" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:48Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035640"/>
+  <nd ref="5720035637"/>
+  <nd ref="5720035638"/>
+  <nd ref="5720035639"/>
+  <nd ref="5720035640"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064450" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:48Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035644"/>
+  <nd ref="5720035641"/>
+  <nd ref="5720035642"/>
+  <nd ref="5720035643"/>
+  <nd ref="5720035644"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064451" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:48Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035648"/>
+  <nd ref="5720035645"/>
+  <nd ref="5720035646"/>
+  <nd ref="5720035647"/>
+  <nd ref="5720035648"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064460" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:48Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035688"/>
+  <nd ref="5720035685"/>
+  <nd ref="5720035686"/>
+  <nd ref="5720035687"/>
+  <nd ref="5720035688"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064461" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:48Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035692"/>
+  <nd ref="5720035689"/>
+  <nd ref="5720035690"/>
+  <nd ref="5720035691"/>
+  <nd ref="5720035692"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064462" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:48Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035696"/>
+  <nd ref="5720035693"/>
+  <nd ref="5720035694"/>
+  <nd ref="5720035695"/>
+  <nd ref="5720035696"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064463" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:48Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035700"/>
+  <nd ref="5720035699"/>
+  <nd ref="5720035698"/>
+  <nd ref="5720035697"/>
+  <nd ref="5720035700"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064464" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:48Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035704"/>
+  <nd ref="5720035701"/>
+  <nd ref="5720035702"/>
+  <nd ref="5720035703"/>
+  <nd ref="5720035704"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064465" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:48Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035708"/>
+  <nd ref="5720035705"/>
+  <nd ref="5720035706"/>
+  <nd ref="5720035707"/>
+  <nd ref="5720035708"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064466" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:49Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035712"/>
+  <nd ref="5720035709"/>
+  <nd ref="5720035710"/>
+  <nd ref="5720035711"/>
+  <nd ref="5720035712"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064467" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:49Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035716"/>
+  <nd ref="5720035713"/>
+  <nd ref="5720035714"/>
+  <nd ref="5720035715"/>
+  <nd ref="5720035716"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064468" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:49Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035720"/>
+  <nd ref="5720035717"/>
+  <nd ref="5720035718"/>
+  <nd ref="5720035719"/>
+  <nd ref="5720035720"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064469" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:49Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035724"/>
+  <nd ref="5720035721"/>
+  <nd ref="5720035722"/>
+  <nd ref="5720035723"/>
+  <nd ref="5720035724"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064470" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:49Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035728"/>
+  <nd ref="5720035725"/>
+  <nd ref="5720035726"/>
+  <nd ref="5720035727"/>
+  <nd ref="5720035728"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064471" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:49Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035732"/>
+  <nd ref="5720035729"/>
+  <nd ref="5720035730"/>
+  <nd ref="5720035731"/>
+  <nd ref="5720035732"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064472" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:49Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035736"/>
+  <nd ref="5720035733"/>
+  <nd ref="5720035734"/>
+  <nd ref="5720035735"/>
+  <nd ref="5720035736"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064473" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:49Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035740"/>
+  <nd ref="5720035737"/>
+  <nd ref="5720035738"/>
+  <nd ref="5720035739"/>
+  <nd ref="5720035740"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064474" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:49Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035744"/>
+  <nd ref="5720035741"/>
+  <nd ref="5720035742"/>
+  <nd ref="5720035743"/>
+  <nd ref="5720035744"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064475" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:49Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035748"/>
+  <nd ref="5720035745"/>
+  <nd ref="5720035746"/>
+  <nd ref="5720035747"/>
+  <nd ref="5720035748"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064476" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:49Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035752"/>
+  <nd ref="5720035749"/>
+  <nd ref="5720035750"/>
+  <nd ref="5720035751"/>
+  <nd ref="5720035752"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064477" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:49Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035756"/>
+  <nd ref="5720035753"/>
+  <nd ref="5720035754"/>
+  <nd ref="5720035755"/>
+  <nd ref="5720035756"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064478" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:49Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035760"/>
+  <nd ref="5720035757"/>
+  <nd ref="5720035758"/>
+  <nd ref="5720035759"/>
+  <nd ref="5720035760"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064479" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:49Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035764"/>
+  <nd ref="5720035761"/>
+  <nd ref="5720035762"/>
+  <nd ref="5720035763"/>
+  <nd ref="5720035764"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064480" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:49Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035768"/>
+  <nd ref="5720035765"/>
+  <nd ref="5720035766"/>
+  <nd ref="5720035767"/>
+  <nd ref="5720035768"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064481" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:49Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035772"/>
+  <nd ref="5720035769"/>
+  <nd ref="5720035770"/>
+  <nd ref="5720035771"/>
+  <nd ref="5720035772"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064482" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:49Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035776"/>
+  <nd ref="5720035775"/>
+  <nd ref="5720035774"/>
+  <nd ref="5720035773"/>
+  <nd ref="5720035776"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064483" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:49Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035780"/>
+  <nd ref="5720035779"/>
+  <nd ref="5720035778"/>
+  <nd ref="5720035777"/>
+  <nd ref="5720035780"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064484" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:49Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035784"/>
+  <nd ref="5720035783"/>
+  <nd ref="5720035782"/>
+  <nd ref="5720035781"/>
+  <nd ref="5720035784"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064485" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:49Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035788"/>
+  <nd ref="5720035787"/>
+  <nd ref="5720035786"/>
+  <nd ref="5720035785"/>
+  <nd ref="5720035788"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064490" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:50Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035808"/>
+  <nd ref="5720035807"/>
+  <nd ref="5720035806"/>
+  <nd ref="5720035805"/>
+  <nd ref="5720035808"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064491" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:50Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035812"/>
+  <nd ref="5720035811"/>
+  <nd ref="5720035810"/>
+  <nd ref="5720035809"/>
+  <nd ref="5720035812"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064492" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:50Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035816"/>
+  <nd ref="5720035815"/>
+  <nd ref="5720035814"/>
+  <nd ref="5720035813"/>
+  <nd ref="5720035816"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064493" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:50Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035820"/>
+  <nd ref="5720035819"/>
+  <nd ref="5720035818"/>
+  <nd ref="5720035817"/>
+  <nd ref="5720035820"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064495" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:50Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035824"/>
+  <nd ref="5720035823"/>
+  <nd ref="5720035822"/>
+  <nd ref="5720035821"/>
+  <nd ref="5720035824"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064496" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:50Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035828"/>
+  <nd ref="5720035827"/>
+  <nd ref="5720035826"/>
+  <nd ref="5720035825"/>
+  <nd ref="5720035828"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064497" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:50Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035832"/>
+  <nd ref="5720035831"/>
+  <nd ref="5720035830"/>
+  <nd ref="5720035829"/>
+  <nd ref="5720035832"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064498" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:50Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035836"/>
+  <nd ref="5720035835"/>
+  <nd ref="5720035834"/>
+  <nd ref="5720035833"/>
+  <nd ref="5720035836"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064499" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:50Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035840"/>
+  <nd ref="5720035839"/>
+  <nd ref="5720035838"/>
+  <nd ref="5720035837"/>
+  <nd ref="5720035840"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064500" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:50Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035844"/>
+  <nd ref="5720035843"/>
+  <nd ref="5720035842"/>
+  <nd ref="5720035841"/>
+  <nd ref="5720035844"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064501" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:50Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035848"/>
+  <nd ref="5720035847"/>
+  <nd ref="5720035846"/>
+  <nd ref="5720035845"/>
+  <nd ref="5720035848"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064502" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:50Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035852"/>
+  <nd ref="5720035851"/>
+  <nd ref="5720035850"/>
+  <nd ref="5720035849"/>
+  <nd ref="5720035852"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064503" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:50Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035856"/>
+  <nd ref="5720035855"/>
+  <nd ref="5720035854"/>
+  <nd ref="5720035853"/>
+  <nd ref="5720035856"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064504" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:51Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035860"/>
+  <nd ref="5720035859"/>
+  <nd ref="5720035858"/>
+  <nd ref="5720035857"/>
+  <nd ref="5720035860"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064505" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:51Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035864"/>
+  <nd ref="5720035863"/>
+  <nd ref="5720035862"/>
+  <nd ref="5720035861"/>
+  <nd ref="5720035864"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064506" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:51Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035868"/>
+  <nd ref="5720035867"/>
+  <nd ref="5720035866"/>
+  <nd ref="5720035865"/>
+  <nd ref="5720035868"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064507" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:51Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035872"/>
+  <nd ref="5720035871"/>
+  <nd ref="5720035870"/>
+  <nd ref="5720035869"/>
+  <nd ref="5720035872"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064508" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:51Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035876"/>
+  <nd ref="5720035875"/>
+  <nd ref="5720035874"/>
+  <nd ref="5720035873"/>
+  <nd ref="5720035876"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064509" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:51Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035880"/>
+  <nd ref="5720035879"/>
+  <nd ref="5720035878"/>
+  <nd ref="5720035877"/>
+  <nd ref="5720035880"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064510" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:51Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035884"/>
+  <nd ref="5720035883"/>
+  <nd ref="5720035882"/>
+  <nd ref="5720035881"/>
+  <nd ref="5720035884"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064511" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:51Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035888"/>
+  <nd ref="5720035887"/>
+  <nd ref="5720035886"/>
+  <nd ref="5720035885"/>
+  <nd ref="5720035888"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064514" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:51Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035900"/>
+  <nd ref="5720035899"/>
+  <nd ref="5720035898"/>
+  <nd ref="5720035897"/>
+  <nd ref="5720035900"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064517" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:51Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035912"/>
+  <nd ref="5720035911"/>
+  <nd ref="5720035910"/>
+  <nd ref="5720035909"/>
+  <nd ref="5720035912"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064518" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:51Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035916"/>
+  <nd ref="5720035915"/>
+  <nd ref="5720035914"/>
+  <nd ref="5720035913"/>
+  <nd ref="5720035916"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064519" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:51Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035920"/>
+  <nd ref="5720035919"/>
+  <nd ref="5720035918"/>
+  <nd ref="5720035917"/>
+  <nd ref="5720035920"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064520" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:51Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035924"/>
+  <nd ref="5720035923"/>
+  <nd ref="5720035922"/>
+  <nd ref="5720035921"/>
+  <nd ref="5720035924"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064521" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:51Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035928"/>
+  <nd ref="5720035927"/>
+  <nd ref="5720035926"/>
+  <nd ref="5720035925"/>
+  <nd ref="5720035928"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064522" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:51Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035932"/>
+  <nd ref="5720035931"/>
+  <nd ref="5720035930"/>
+  <nd ref="5720035929"/>
+  <nd ref="5720035932"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064523" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:52Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035936"/>
+  <nd ref="5720035935"/>
+  <nd ref="5720035934"/>
+  <nd ref="5720035933"/>
+  <nd ref="5720035936"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064524" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:52Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035940"/>
+  <nd ref="5720035939"/>
+  <nd ref="5720035938"/>
+  <nd ref="5720035937"/>
+  <nd ref="5720035940"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064525" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:52Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035944"/>
+  <nd ref="5720035943"/>
+  <nd ref="5720035942"/>
+  <nd ref="5720035941"/>
+  <nd ref="5720035944"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064526" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:52Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035948"/>
+  <nd ref="5720035947"/>
+  <nd ref="5720035946"/>
+  <nd ref="5720035945"/>
+  <nd ref="5720035948"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064527" visible="true" version="2" changeset="60237137" timestamp="2018-06-28T06:35:28Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035952"/>
+  <nd ref="5720035951"/>
+  <nd ref="5720035950"/>
+  <nd ref="5724819322"/>
+  <nd ref="5720035949"/>
+  <nd ref="5720035952"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064528" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:52Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035956"/>
+  <nd ref="5720035955"/>
+  <nd ref="5720035954"/>
+  <nd ref="5720035953"/>
+  <nd ref="5720035956"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064529" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:52Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035960"/>
+  <nd ref="5720035959"/>
+  <nd ref="5720035958"/>
+  <nd ref="5720035957"/>
+  <nd ref="5720035960"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064530" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:52Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035964"/>
+  <nd ref="5720035963"/>
+  <nd ref="5720035962"/>
+  <nd ref="5720035961"/>
+  <nd ref="5720035964"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064531" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:52Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035968"/>
+  <nd ref="5720035967"/>
+  <nd ref="5720035966"/>
+  <nd ref="5720035965"/>
+  <nd ref="5720035968"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064532" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:52Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035972"/>
+  <nd ref="5720035971"/>
+  <nd ref="5720035970"/>
+  <nd ref="5720035969"/>
+  <nd ref="5720035972"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064533" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:52Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035976"/>
+  <nd ref="5720035975"/>
+  <nd ref="5720035974"/>
+  <nd ref="5720035973"/>
+  <nd ref="5720035976"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064534" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:52Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035980"/>
+  <nd ref="5720035979"/>
+  <nd ref="5720035978"/>
+  <nd ref="5720035977"/>
+  <nd ref="5720035980"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064535" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:52Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035984"/>
+  <nd ref="5720035983"/>
+  <nd ref="5720035982"/>
+  <nd ref="5720035981"/>
+  <nd ref="5720035984"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064536" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:52Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035988"/>
+  <nd ref="5720035987"/>
+  <nd ref="5720035986"/>
+  <nd ref="5720035985"/>
+  <nd ref="5720035988"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064537" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:52Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035992"/>
+  <nd ref="5720035991"/>
+  <nd ref="5720035990"/>
+  <nd ref="5720035989"/>
+  <nd ref="5720035992"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064538" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:52Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720035996"/>
+  <nd ref="5720035995"/>
+  <nd ref="5720035994"/>
+  <nd ref="5720035993"/>
+  <nd ref="5720035996"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064539" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:52Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720036000"/>
+  <nd ref="5720035999"/>
+  <nd ref="5720035998"/>
+  <nd ref="5720035997"/>
+  <nd ref="5720036000"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064540" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:52Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720036004"/>
+  <nd ref="5720036003"/>
+  <nd ref="5720036002"/>
+  <nd ref="5720036001"/>
+  <nd ref="5720036004"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064541" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:52Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720036008"/>
+  <nd ref="5720036007"/>
+  <nd ref="5720036006"/>
+  <nd ref="5720036005"/>
+  <nd ref="5720036008"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064542" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:52Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720036012"/>
+  <nd ref="5720036011"/>
+  <nd ref="5720036010"/>
+  <nd ref="5720036009"/>
+  <nd ref="5720036012"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064543" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:53Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720036016"/>
+  <nd ref="5720036015"/>
+  <nd ref="5720036014"/>
+  <nd ref="5720036013"/>
+  <nd ref="5720036016"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064544" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:53Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720036020"/>
+  <nd ref="5720036019"/>
+  <nd ref="5720036018"/>
+  <nd ref="5720036017"/>
+  <nd ref="5720036020"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064545" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:53Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720036024"/>
+  <nd ref="5720036023"/>
+  <nd ref="5720036022"/>
+  <nd ref="5720036021"/>
+  <nd ref="5720036024"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064546" visible="true" version="2" changeset="60215817" timestamp="2018-06-27T12:23:26Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720036028"/>
+  <nd ref="5720036027"/>
+  <nd ref="5720036026"/>
+  <nd ref="5720036025"/>
+  <nd ref="5723020650"/>
+  <nd ref="5720036028"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064547" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:53Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720036032"/>
+  <nd ref="5720036029"/>
+  <nd ref="5720036030"/>
+  <nd ref="5720036031"/>
+  <nd ref="5720036032"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064548" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:53Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720036036"/>
+  <nd ref="5720036033"/>
+  <nd ref="5720036034"/>
+  <nd ref="5720036035"/>
+  <nd ref="5720036036"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064549" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:53Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720036040"/>
+  <nd ref="5720036037"/>
+  <nd ref="5720036038"/>
+  <nd ref="5720036039"/>
+  <nd ref="5720036040"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064550" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:53Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720036044"/>
+  <nd ref="5720036043"/>
+  <nd ref="5720036042"/>
+  <nd ref="5720036041"/>
+  <nd ref="5720036044"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064551" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:53Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720036048"/>
+  <nd ref="5720036047"/>
+  <nd ref="5720036046"/>
+  <nd ref="5720036045"/>
+  <nd ref="5720036048"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064552" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:53Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720036052"/>
+  <nd ref="5720036051"/>
+  <nd ref="5720036050"/>
+  <nd ref="5720036049"/>
+  <nd ref="5720036052"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602064553" visible="true" version="1" changeset="60177912" timestamp="2018-06-26T10:43:53Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720036056"/>
+  <nd ref="5720036055"/>
+  <nd ref="5720036054"/>
+  <nd ref="5720036053"/>
+  <nd ref="5720036056"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602070692" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:50Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720071433"/>
+  <nd ref="5720071430"/>
+  <nd ref="5720071431"/>
+  <nd ref="5720071432"/>
+  <nd ref="5720071433"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602070693" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:50Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720071437"/>
+  <nd ref="5720071434"/>
+  <nd ref="5720071435"/>
+  <nd ref="5720071436"/>
+  <nd ref="5720071437"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602070694" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:50Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720071441"/>
+  <nd ref="5720071438"/>
+  <nd ref="5720071439"/>
+  <nd ref="5720071440"/>
+  <nd ref="5720071441"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602070695" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:50Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720071445"/>
+  <nd ref="5720071442"/>
+  <nd ref="5720071443"/>
+  <nd ref="5720071444"/>
+  <nd ref="5720071445"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602070696" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:50Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720071449"/>
+  <nd ref="5720071446"/>
+  <nd ref="5720071447"/>
+  <nd ref="5720071448"/>
+  <nd ref="5720071449"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602070697" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:50Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720071453"/>
+  <nd ref="5720071450"/>
+  <nd ref="5720071451"/>
+  <nd ref="5720071452"/>
+  <nd ref="5720071453"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602070698" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:50Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720071457"/>
+  <nd ref="5720071454"/>
+  <nd ref="5720071455"/>
+  <nd ref="5720071456"/>
+  <nd ref="5720071457"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602070699" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:50Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720071461"/>
+  <nd ref="5720071458"/>
+  <nd ref="5720071459"/>
+  <nd ref="5720071460"/>
+  <nd ref="5720071461"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602070700" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:50Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720071465"/>
+  <nd ref="5720071462"/>
+  <nd ref="5720071463"/>
+  <nd ref="5720071464"/>
+  <nd ref="5720071465"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602070701" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:50Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720071469"/>
+  <nd ref="5720071466"/>
+  <nd ref="5720071467"/>
+  <nd ref="5720071468"/>
+  <nd ref="5720071469"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602070702" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:50Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720071473"/>
+  <nd ref="5720071470"/>
+  <nd ref="5720071471"/>
+  <nd ref="5720071472"/>
+  <nd ref="5720071473"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602070703" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:50Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720071477"/>
+  <nd ref="5720071474"/>
+  <nd ref="5720071475"/>
+  <nd ref="5720071476"/>
+  <nd ref="5720071477"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602070704" visible="true" version="1" changeset="60178336" timestamp="2018-06-26T10:57:50Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720071481"/>
+  <nd ref="5720071478"/>
+  <nd ref="5720071479"/>
+  <nd ref="5720071480"/>
+  <nd ref="5720071481"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602120505" visible="true" version="2" changeset="60237137" timestamp="2018-06-28T06:35:28Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720374848"/>
+  <nd ref="5720374847"/>
+  <nd ref="5720374846"/>
+  <nd ref="5724819323"/>
+  <nd ref="5720374845"/>
+  <nd ref="5720374848"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602120507" visible="true" version="1" changeset="60181610" timestamp="2018-06-26T12:30:19Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720374852"/>
+  <nd ref="5720374851"/>
+  <nd ref="5720374850"/>
+  <nd ref="5720374849"/>
+  <nd ref="5720374852"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602120508" visible="true" version="1" changeset="60181610" timestamp="2018-06-26T12:30:19Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720374856"/>
+  <nd ref="5720374855"/>
+  <nd ref="5720374854"/>
+  <nd ref="5720374853"/>
+  <nd ref="5720374856"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602120509" visible="true" version="1" changeset="60181610" timestamp="2018-06-26T12:30:19Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720374860"/>
+  <nd ref="5720374857"/>
+  <nd ref="5720374858"/>
+  <nd ref="5720374859"/>
+  <nd ref="5720374860"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602120510" visible="true" version="1" changeset="60181610" timestamp="2018-06-26T12:30:19Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720374864"/>
+  <nd ref="5720374861"/>
+  <nd ref="5720374862"/>
+  <nd ref="5720374863"/>
+  <nd ref="5720374864"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602120512" visible="true" version="1" changeset="60181610" timestamp="2018-06-26T12:30:19Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720374868"/>
+  <nd ref="5720374865"/>
+  <nd ref="5720374866"/>
+  <nd ref="5720374867"/>
+  <nd ref="5720374868"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602120514" visible="true" version="1" changeset="60181610" timestamp="2018-06-26T12:30:19Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720374872"/>
+  <nd ref="5720374871"/>
+  <nd ref="5720374870"/>
+  <nd ref="5720374869"/>
+  <nd ref="5720374872"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602120542" visible="true" version="1" changeset="60181610" timestamp="2018-06-26T12:30:21Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720374996"/>
+  <nd ref="5720374993"/>
+  <nd ref="5720374994"/>
+  <nd ref="5720374995"/>
+  <nd ref="5720374996"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602120543" visible="true" version="1" changeset="60181610" timestamp="2018-06-26T12:30:21Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720375000"/>
+  <nd ref="5720374997"/>
+  <nd ref="5720374998"/>
+  <nd ref="5720374999"/>
+  <nd ref="5720375000"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602120544" visible="true" version="1" changeset="60181610" timestamp="2018-06-26T12:30:21Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720375004"/>
+  <nd ref="5720375001"/>
+  <nd ref="5720375002"/>
+  <nd ref="5720375003"/>
+  <nd ref="5720375004"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602120545" visible="true" version="1" changeset="60181610" timestamp="2018-06-26T12:30:21Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720375008"/>
+  <nd ref="5720375005"/>
+  <nd ref="5720375006"/>
+  <nd ref="5720375007"/>
+  <nd ref="5720375008"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602120546" visible="true" version="1" changeset="60181610" timestamp="2018-06-26T12:30:21Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5720375012"/>
+  <nd ref="5720375009"/>
+  <nd ref="5720375010"/>
+  <nd ref="5720375011"/>
+  <nd ref="5720375012"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602574581" visible="true" version="1" changeset="60215817" timestamp="2018-06-27T12:23:10Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5723020649"/>
+  <nd ref="5723020646"/>
+  <nd ref="5723020647"/>
+  <nd ref="5723020648"/>
+  <nd ref="5723020649"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602811927" visible="true" version="1" changeset="60235096" timestamp="2018-06-28T05:15:40Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5724636956"/>
+  <nd ref="5724636953"/>
+  <nd ref="5724636954"/>
+  <nd ref="5724636955"/>
+  <nd ref="5724636956"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602841691" visible="true" version="1" changeset="60237137" timestamp="2018-06-28T06:35:27Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5724819343"/>
+  <nd ref="5724819340"/>
+  <nd ref="5724819341"/>
+  <nd ref="5724819342"/>
+  <nd ref="5724819343"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="602841702" visible="true" version="1" changeset="60237137" timestamp="2018-06-28T06:35:27Z" user="Janga Navya Reddy" uid="8403687">
+  <nd ref="5724819359"/>
+  <nd ref="5724819358"/>
+  <nd ref="5724819357"/>
+  <nd ref="5724819356"/>
+  <nd ref="5724819359"/>
+  <tag k="building" v="yes"/>
+ </way>
+</osm>
